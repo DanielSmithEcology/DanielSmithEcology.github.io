@@ -1,0 +1,36 @@
+---
+title: "Talks"
+---
+
+## Invited Talks
+
+* Smith, Daniel JB, "A Unified Framework for Interference and Exploitative Competition: Synthesizing Classic Ecological and Evolutionary Game Theory Models." Wolfram Summer Ecology Colloquium, August 2024. [Link to recording.](https://www.bigmarker.com/wolfram-u/eco-research-aug-2024?bmid=34313ce46008&bmid_type=member&bmid=34313ce46008)
+
+* Smith, Daniel JB, "A Unified Framework for Interference and Exploitative Competition: Synthesizing Classic Ecological and Evolutionary Game Theory Models." Inaugural meeting of the Society for Modeling and Theory in Population Biology at the Banff International Research Station, Banff International Research Station, Alberta, Canada, May 2024. [Link to recording.](https://www.birs.ca/events/2024/5-day-workshops/24htp001/videos/watch/202405211418-Smith.html)
+
+* Smith, Daniel JB, and Masel, Joanna. "The Interaction Between Exploitative and Interference Competition: Limits to R* Theory." John Templeton Foundation Early Careers Conference, Atlanta, Georgia, January 2024. 
+
+* Smith, Daniel JB, "The Functional Form of Specialized Predation Affects Whether Janzen-Connell Effects Can Prevent Competitive Exclusion." Invited speaker for the Smithsonian Tropical Research Institute virtual science seminar, June 2024. [Link to recording.](https://www.youtube.com/watch?v=rwMlUAgGh28&list=PLQw2VnOistAxmPfbsiE4uSjAHGfXK3i1d&index=13)
+
+
+## Contributed Talks
+
+* Smith, Daniel JB, et al. "Why there are so many definitions of fitness in models." Evolution 2024, Montreal, Canada, 2024. 
+
+* Smith, Daniel JB. "Janzen-Connell effects and habitat-induced aggregation synergistically promote species coexistence." Barro Colorado Island 100 Years Symposium, Gamboa, Panama, June 2024. 
+
+* Smith, Daniel JB, and Masel, Joanna. "The Interaction Between Exploitative and Interference Competition: Limits to R* Theory." Evolution 2023, Albuquerque, New Mexico, 2023. 
+
+* Smith, Daniel JB, "The Functional Form of Specialized Predation Affects Whether Janzen-Connell Effects Can Prevent Competitive Exclusion." Ecological Society of America Annual Meeting, 2021 (virtual).   
+
+* Smith, Daniel JB, Singha, S., Banerjee, I. "Multimodel Climate Emulation of the CMIP-6 Archive." UChicago Geoscience PhD 'Expo' (virtual), 2020. 
+
+* Smith, Daniel JB and Amarasekare, Priyanga. "Optimizations in a Variable World: On Latitudinal Trends of the Temperature Response of Fecundity." Ecological Society of America Annual Meeting, New Orleans, LA, USA, 2018. 
+
+* Smith, Daniel JB and Amarasekare, Priyanga. "On the Temperature Response of Ectotherm Fecundity." Society of Naturalists Meeting, Pacific Grove, CA, USA, 2018.
+
+* Smith, Daniel JB and Amarasekare, Priyanga. "Towards a Mechanistic Basis of the Thermal Plasticity of Ectotherm Fecundity." Ecological Society of America Annual Meeting, Portland, OR, USA, 2017.  
+
+* Smith, Daniel JB and Amarasekare, Priyanga. "A Mechanistic Framework for Temperature Mediated Niche Partitioning in Ectotherms." UCLA Science Poster Day, June 2015. 
+
+* Smith, Daniel JB and Amarasekare, Priyanga. "A Mechanistic Framework for Temperature Mediated Niche Partitioning in Ectotherms." UCLA Ecology and Evolutionary Biology Symposium, June 2015. 

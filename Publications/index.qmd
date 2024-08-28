@@ -1,0 +1,32 @@
+---
+title: "Publications"
+---
+ 
+## Peer reveiwed publications
+
+
+* LaManna, Joseph…, Smith, Daniel JB…, Delavaux, C "Consequences of local conspecific density effects for plant diversity and community dynamics." *Ecology Letters* 27.6 *Accepted*.
+
+* Magee, Lukas J., Joseph A. LaManna, Amy T. Wolf, Robert W. Howe, Yuanming Lu, Denis Valle, **Daniel JB Smith**, Robert Bagchi, David Bauman, and Daniel J. Johnson. "The unexpected influence of legacy conspecific density dependence." *Ecology Letters* 27.6 (2024): e14449. <https://doi.org/10.1111/ele.14449>. 
+
+* Smith, Daniel JB "The functional form of specialised predation affects whether Janzen–Connell effects can prevent competitive exclusion." *Ecology Letters* 25.6 (2022): 1458-1470. <https://doi.org/10.1111/ele.14014>. 
+
+* Smith, Daniel JB and  Amarasekare, Priyanga. "Toward a mechanistic understanding of thermal niche partitioning." *The American Naturalist* 191.3 (2018): E57-E75. <https://doi.org/10.1086/695805>. 
+
+
+## Papers in review
+
+* Smith, Daniel JB, et al. "Why there are so many definitions of fitness in models." *EcoEvoRxiv* (2024). <https://doi.org/10.32942/X2V61T>. 
+
+* Smith, Daniel JB and Masel, Joanna. "The Interaction Between Exploitative and Interference Competition: Limits to R* Theory." *bioRxiv* (2023): 2023-09. <https://doi.org/10.1101/2023.09.27.559600>. 
+
+* Smith, Daniel JB. "On the interaction between Janzen-Connell effects and habitat partitioning in spatially structured environments." *bioRxiv* (2022). <https://doi.org/10.1101/2022.04.11.487940>. 
+
+## Papers in prep
+
+* Smith, Daniel JB "The effect of demographic traits and environmental conditions on conspecific negative density dependence." *In prep*.
+
+* Smith, Daniel JB "The interaction of predator satiation and specialized predation in masting plant populations." *In prep*.
+
+* Magee, Lukas, Smith, Daniel JB, et al., "Echoes of trees past: persistent Janzen-Connell effects enhance species coexistence. *In prep*.
+

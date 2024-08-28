@@ -1,0 +1,28 @@
+---
+title: "Outreach and Teaching"
+---
+
+## YouTube
+
+I am the creator of the YouTube channel [LifeEquations](https://www.youtube.com/@LifeEquationsVideos). In each video, I (attempt to) explain a complex theoretical topic or model in ecology in simple terms. 
+
+Here's my latest video: 
+
+<iframe width="1120" height="630"  src="https://www.youtube.com/embed/uhL6RG2V4ns?si=irhsLsq8CQb3awr6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+And here are several other ecology-related videos from the channel! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bBZQxyD8Fsc?si=Avdr0qmQfXs3GmpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lO6Wjk90Azo?si=cU9r1RbVWTZo3s0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B7pw4fcWGFk?si=kg2Z8gzVN6uO87sU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Reshaping quantiative education in the biological sciences
+
+At the inaugural meeting of the Society for Modeling and Theory in Population Biology in Banff (Alberta, Canada), we formed a committee to enact change in teaching the biological sciences. Our primary goals is to better integrate mathematical and quantitative reasoning into biological curriculums in higher education. For information about the society can be found [here.](https://smtpb.wildapricot.org/)
+
+<img src="groupphoto.jpg" style="height: 100%; width: 100%; object-fit: contain">
+This is picture from the first in-person meeting! 

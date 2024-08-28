@@ -1,0 +1,39 @@
+---
+title: Daniel J.B. Smith
+subtitle: Postdoctoral Fellow, UT Austin
+about:
+  template: trestles
+  id: about-block
+  image: "img/Daniel_Smith_Image_Edited.jpg"
+  links:
+  #  - icon: twitter
+  #    text: Twitter
+  #    href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/DanielSmithEcology
+   # - icon: linkedin
+    #  text: LinkedIn
+    #  href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: envelope
+      text: Email
+      href: "mailto:smithdj4@utexas.edu"  
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@LifeEquationsVideos
+---
+# 🌳 About me 🌱
+
+I am a theoretical ecologist and evolutionary biologist. 
+
+Just as a microscope can reveal the inner-workings of a cell, mathematics can illuminate the processes that shape ecological communities and evolutionary adaptation. In my work, I emphasize the use of mathematical models to explore how density-dependent interactions shape ecological patterns such as species diversity, often in conjunction with empirical data. 
+
+I am currently a Peter O'Donnell Jr. Postdoc Fellow at UT Austin, working closely with [Dr. Annette Ostling](https://sites.google.com/utexas.edu/ostlinglab/home?authuser=0) and [Dr. Brian Sedio](http://briansedio.weebly.com/). I was previously a Postdoc in [Dr. Joanna Masel's lab](https://www.masellab.org/people/joanna-masel). I received my PhD from the University of Chicago, where I was advised by [Dr. Tim Wootton](https://voices.uchicago.edu/woottonlab/). I also previously worked with [Dr. Priyanga Amarasekare ](https://faculty.eeb.ucla.edu/amarasekare/index.html) as an undergraduate at UCLA. 
+
+On this website, you will find descriptions of my research, publications, talks, outreach, and teaching. 
+
+# Please reach out! 
+
+I love meeting new people and beginning new collaborations! Please [contact me](mailto:smithdj4@utexas.edu) if you have any questions, if you would like to discuss potential collaborations, or if you're interested in chatting in general. 
+
+

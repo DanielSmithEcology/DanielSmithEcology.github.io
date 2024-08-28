@@ -1,0 +1,90 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "**Daniel J.B. Smith** | Theoretical Ecology and Evolutionary Biology"                                # Your name
+ # description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  favicon: img/TreeYay.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/TreeYay.png
+    # your sub-pages
+    left:
+      - text: "Research"
+        href: Research/index.qmd
+      - text: "Publications"
+        href: Publications/index.qmd
+      - text: "Talks"
+        href: Talks/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      - text: "Outreach and Teaching"
+        href: Outreach/index.qmd
+    
+    # your social media handles
+   # right:
+   #   - icon: folder-symlink
+  #      href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
+  #    - icon: twitter
+  #      href: https://twitter.com/MarvinSchmittML
+  #    - icon: linkedin
+  #      href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+  #    - icon: envelope
+  #      aria-label: email
+  #      href: "mailto:mail.marvinschmitt@gmail.com"  
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+ # page-footer: 
+#    left: |
+#      <span class="faux-block">&#169; 2023 Marvin Schmitt CC BY-SA 4.0</span>
+#    center: |
+#      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">View the tutorial for this template!</a></span>
+#    right: |
+#      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+
+#title-block-banner: "grey"
+
+format:
+  html:
+    fontsize: 1.3em
+   # theme:
+  #    light: darkly
+  #    dark: [darkly, theme-dark.scss]
+    theme:  cyborg 
+    backgroundcolor: "#242530"
+    fontcolor: "#edeef6"
+    mainfont: arial
+    monobackgroundcolor: yellow
+    linkcolor: "#2298d7"
+      #litera, darkly, cyborg, morph, sandstone, simplex, slate, superhero
+    #  - html/styles.scss
+   #banner: "#868e96"
+    page-layout: full
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
