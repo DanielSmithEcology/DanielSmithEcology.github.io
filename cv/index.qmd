@@ -1,4 +1,5 @@
 ---
+sidebar: false
 layout: page
 title: CV
 excerpt: Current CV
