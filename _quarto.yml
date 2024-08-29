@@ -66,6 +66,8 @@ execute:
 
 #title-block-banner: "grey"
 
+timezone: UTC
+
 format:
   html:
     fontsize: 1.3em
