@@ -6,15 +6,13 @@ website:
  # description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
   image: img/my_image.jpg
   favicon: img/TreeYay.png
-  
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
     logo: /img/TreeYay.png
     # your sub-pages
     left:
-      - text: "Research"
-        href: Research/index.qmd
+      - sidebar:Research
       - text: "Publications"
         href: Publications/index.qmd
       - text: "Talks"
@@ -24,6 +22,21 @@ website:
       - text: "Outreach and Teaching"
         href: Outreach/index.qmd
     
+  sidebar:
+    - id: Research
+      title: "Research"
+      style: "docked"
+      background: "#242530"
+      collapse-level: 2
+      contents: 
+              - Natural enemies and plant diversity/index.qmd
+              - How interfernece competition affects coexistence/index.qmd
+              - What is fitness/index.qmd
+              - The effect of temperature on competition in ectotherms/index.qmd
+
+        # navigation items
+    
+
     # your social media handles
    # right:
    #   - icon: folder-symlink
