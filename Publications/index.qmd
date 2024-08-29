@@ -5,7 +5,7 @@ title: "Publications"
 ## Peer reveiwed publications
 
 
-* LaManna, Joseph…, Smith, Daniel JB…, Delavaux, C "Consequences of local conspecific density effects for plant diversity and community dynamics." *Ecology Letters* 27.6 *Accepted*.
+* LaManna, Joseph…, **Smith, Daniel JB**…, Delavaux, C "Consequences of local conspecific density effects for plant diversity and community dynamics." *Ecology Letters* 27.6 *Accepted*.
 
 * Magee, Lukas J., Joseph A. LaManna, Amy T. Wolf, Robert W. Howe, Yuanming Lu, Denis Valle, **Daniel JB Smith**, Robert Bagchi, David Bauman, and Daniel J. Johnson. "The unexpected influence of legacy conspecific density dependence." *Ecology Letters* 27.6 (2024): e14449. <https://doi.org/10.1111/ele.14449>. 
 
