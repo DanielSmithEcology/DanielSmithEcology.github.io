@@ -1,4 +1,5 @@
 ---
+sidebar: false
 title: "Outreach and Teaching"
 ---
 
@@ -25,4 +26,4 @@ And here are several other ecology-related videos from the channel!
 At the inaugural meeting of the Society for Modeling and Theory in Population Biology in Banff (Alberta, Canada), we formed a committee to enact change in teaching the biological sciences. Our primary goals is to better integrate mathematical and quantitative reasoning into biological curriculums in higher education. For information about the society can be found [here.](https://smtpb.wildapricot.org/)
 
 <img src="groupphoto.jpg" style="height: 100%; width: 100%; object-fit: contain">
-This is picture from the first in-person meeting! 
+This is a picture from the first in-person meeting! 

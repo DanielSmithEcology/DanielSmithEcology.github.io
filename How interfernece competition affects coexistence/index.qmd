@@ -1,0 +1,22 @@
+---
+layout: page
+title: 🦅 How interfernece competition affects coexistence 🕊
+excerpt: Current and past research
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+---
+In ecology, researchers often talk about two types of competition: exploitative competition and interference competition. Exploitative competition refers *indirect* competition between (or within) species for mutually shared resources. Interference competition refers to *direct* interactions between organisms (e.g., stealing resources in contests, territoriality, stabbing and toxin-antitoxin systems in microbes). 
+
+The majority of "mechanistic" models and theories in community ecology -- such as R* theory and the R* rule -- emphasize exploitative competition and ignore interference competition. In contrast, the Hawk-Dove game from evolutionary game theory is a classic model in which interference competition is emphasized. Similarly, the competition-colonization trade-off is a classic coexistence mechanism in theoretical community ecology which implicitly relies on interference competition, at least within certain interpretations. However, R* theory, the Hawk-Dove game, and the competition-colonization trade-off have not been integrated into a unified framework. 
+
+<img src="Interference_Comp.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://doi.org/10.1101/2023.09.27.559600', 'blank');"/>
+  <font size="2.5"> (A) is a visualization of the model, depicting a single species that consumes resources and engages in contests over resources. (B) shows parameter space in which interference competition may permit coexistence of two consumer species competing for a single limiting resource (first row) and the predominant mechanism underlying the competitive outcome (second row). </font>
+<a href="https://doi.org/10.1101/2023.09.27.559600 " target="_blank">Link to article on BioRxiv</a><br>
+
+In [our recent paper](https://doi.org/10.1101/2023.09.27.559600) currently under review, [Dr. Joanna Masel](https://www.masellab.org/people/joanna-masel) and I expand a simple exploitative consumer-resource model to include interference competition over resources. As depicted in the figure below, we consider a model in which one individuals (e.g., the deer) may contest others over the use of resources. Through this model, we find that two consumer species can persist on a single limiting resource due to interference (in contrast to classical ecological theory such as the R* rule). We find that some of the parameter space resembles the R* rule, other parts resemble the Hawk-Dove game, and other parts the competition-colonization trade-off. We also find evidence of novel coexistence mechanism which we refer to as the "submission-discovery" trade-off. 
+
+In upcoming work, we will expand this model to include trait evolution. We aim to elucidate how interference competition modifies niche evolution and character displacement. 
+
+
+----
