@@ -9,9 +9,6 @@ about:
   #  - icon: twitter
   #    text: Twitter
   #    href: https://twitter.com/MarvinSchmittML
-    - icon: github
-      text: Github
-      href: https://github.com/DanielSmithEcology
    # - icon: linkedin
     #  text: LinkedIn
     #  href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
@@ -21,8 +18,12 @@ about:
     - icon: youtube
       text: YouTube
       href: https://www.youtube.com/@LifeEquationsVideos
+    - icon: github
+      text: Github
+      href: https://github.com/DanielSmithEcology
 ---
 # 🌳 About me 🌱
+
 I am a theoretical ecologist and evolutionary biologist. 
 
 Just as a microscope can reveal the inner-workings of a cell, mathematics can illuminate the processes that shape ecological communities and evolutionary adaptation. In my work, I emphasize the use of mathematical models to explore how density-dependent interactions shape ecological patterns such as species diversity, often in conjunction with empirical data. 
