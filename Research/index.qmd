@@ -6,8 +6,12 @@ execute:
   freeze: true  # never re-render during project render
 engine: knitr 
 ---
-## 🦠 Natural enemies and plant diversity 🌱
+I have researched several different topics in ecology and evolutionary biology throughout my career. These topics include 
 
+see @sec-Sec1 for
+
+
+## 🦠 Natural enemies and plant diversity 🌱 
 Historically, work in community ecology focused on species interactions that take place within a defined environment that exists independent of the species -- in other words, species have been figuratively treated like actors upon an environmental stage that preexists them. This view is no longer substantiated: recent decades have seen an explosion of research into how organisms shape their environments. 
 
 One such process involves plants and their natural enemies (e.g. insects, fungi and pathogens). Empirical evidence shows that specialized pathogens and pests are attracted to areas of high host plant density, which may strongly affect plant growth and survival. This phenomonon, in part, motivates agriculturalists to perform crop rotations, which can keep natural enemies (soil pathogens) at bay. While specialized pests and pathogens are often a nuisance and threat in the anthropocentric world of agriculture, they may have profound and fascinating implications for species interactions in the natural world. 
