@@ -23,7 +23,6 @@ about:
       href: https://www.youtube.com/@LifeEquationsVideos
 ---
 # 🌳 About me 🌱
-
 I am a theoretical ecologist and evolutionary biologist. 
 
 Just as a microscope can reveal the inner-workings of a cell, mathematics can illuminate the processes that shape ecological communities and evolutionary adaptation. In my work, I emphasize the use of mathematical models to explore how density-dependent interactions shape ecological patterns such as species diversity, often in conjunction with empirical data. 
