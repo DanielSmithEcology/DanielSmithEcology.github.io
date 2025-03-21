@@ -1,0 +1,627 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-languages-of-middle-earth",
+    "href": "projects/index.html#the-languages-of-middle-earth",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved.\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Daniel J.B. Smith",
+    "section": "",
+    "text": "🌳 About me 🌱\nJust as a microscope can reveal the inner-workings of a cell, mathematics can illuminate the processes that shape ecological communities and evolutionary adaptation. In my work, I emphasize the use of mathematical models to explore how density-dependent interactions shape ecological patterns such as species diversity, often in conjunction with empirical data.\nI am a theoretical ecologist and evolutionary biologist. I am currently a Peter O’Donnell Jr. Postdoc Fellow at UT Austin, working closely with Dr. Annette Ostling and Dr. Brian Sedio. I was previously a Postdoc in Dr. Joanna Masel’s lab at the University of Arizona. I received my PhD from the University of Chicago, where I was advised by Dr. Tim Wootton. I also previously worked with Dr. Priyanga Amarasekare as an undergraduate at UCLA.\nOn this website, you will find descriptions of my research, publications, talks, outreach, and teaching.\n\n\nPlease reach out!\nI love meeting new people and beginning new collaborations! Please contact me if you have any questions, if you would like to discuss potential collaborations, or if you’re interested in chatting in general."
+  },
+  {
+    "objectID": "Publications/index.html",
+    "href": "Publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "LaManna, Joseph…, Smith, Daniel JB…, Delavaux, C “Consequences of local conspecific density effects for plant diversity and community dynamics.” Ecology Letters 27.6 Accepted.\nMagee, Lukas J., Joseph A. LaManna, Amy T. Wolf, Robert W. Howe, Yuanming Lu, Denis Valle, Daniel JB Smith, Robert Bagchi, David Bauman, and Daniel J. Johnson. “The unexpected influence of legacy conspecific density dependence.” Ecology Letters 27.6 (2024): e14449. https://doi.org/10.1111/ele.14449.\nSmith, Daniel JB “The functional form of specialised predation affects whether Janzen–Connell effects can prevent competitive exclusion.” Ecology Letters 25.6 (2022): 1458-1470. https://doi.org/10.1111/ele.14014.\nSmith, Daniel JB and Amarasekare, Priyanga. “Toward a mechanistic understanding of thermal niche partitioning.” The American Naturalist 191.3 (2018): E57-E75. https://doi.org/10.1086/695805."
+  },
+  {
+    "objectID": "Research/index.html",
+    "href": "Research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "see Section 1 for"
+  },
+  {
+    "objectID": "Research/index.html#the-effect-of-interfernece-competition-on-competitive-outcomes",
+    "href": "Research/index.html#the-effect-of-interfernece-competition-on-competitive-outcomes",
+    "title": "Research",
+    "section": "🦅 The effect of interfernece competition on competitive outcomes 🕊",
+    "text": "🦅 The effect of interfernece competition on competitive outcomes 🕊\nIn ecology, there are two types…\nLink to article on BioRxiv"
+  },
+  {
+    "objectID": "Research/index.html#what-is-fitness",
+    "href": "Research/index.html#what-is-fitness",
+    "title": "Research",
+    "section": "What is “fitness”?",
+    "text": "What is “fitness”?\nThe term “fitness” is thrown around all the time in ecology and evolutionary biology. But what does it exactly mean? This kind of question calls for a philosopher (which I am not). To get at this question, Dr. Joanna Masel and I teamed up with some philosophers to investigate! Ultimately, we propose that there are two different “types” of fitness evolutionary biologists refer to in models: (1) short-term fitness, which are summaries of vital rates (e.g., the Malthusian parameter) and (2) long-term fitness (e.g., the probability an allele fixes in a population). The below figures summarizes our view of fitness and its operationalizations. See our preprint for details.\n Our “fitness” schematic.  Link to article on EcoEvoRxiv\nHere is a link to an excellant talk by Dr. Joanna Masel on this project and related works that elegantly summarizes many of our views."
+  },
+  {
+    "objectID": "Research/index.html#the-effect-of-temperature-on-competitive-interactions-in-ecotherms",
+    "href": "Research/index.html#the-effect-of-temperature-on-competitive-interactions-in-ecotherms",
+    "title": "Research",
+    "section": "🪲 The effect of temperature on competitive interactions in ecotherms 🌡️",
+    "text": "🪲 The effect of temperature on competitive interactions in ecotherms 🌡️\nIn collaboration with Dr. Priyanga Amarasekare…\n\nLink to article published in The American Naturalist\nIn collaboration with Dr. Priyanga Amarasekare…"
+  },
+  {
+    "objectID": "Talks/index.html",
+    "href": "Talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Smith, Daniel JB, “A Unified Framework for Interference and Exploitative Competition: Synthesizing Classic Ecological and Evolutionary Game Theory Models.” Wolfram Summer Ecology Colloquium, August 2024. Link to recording.\nSmith, Daniel JB, “A Unified Framework for Interference and Exploitative Competition: Synthesizing Classic Ecological and Evolutionary Game Theory Models.” Inaugural meeting of the Society for Modeling and Theory in Population Biology at the Banff International Research Station, Banff International Research Station, Alberta, Canada, May 2024. Link to recording.\nSmith, Daniel JB, and Masel, Joanna. “The Interaction Between Exploitative and Interference Competition: Limits to R* Theory.” John Templeton Foundation Early Careers Conference, Atlanta, Georgia, January 2024.\nSmith, Daniel JB, “The Functional Form of Specialized Predation Affects Whether Janzen-Connell Effects Can Prevent Competitive Exclusion.” Invited speaker for the Smithsonian Tropical Research Institute virtual science seminar, June 2024. Link to recording."
+  },
+  {
+    "objectID": "Publications/index.html#available-works-in-review",
+    "href": "Publications/index.html#available-works-in-review",
+    "title": "Publications",
+    "section": "Available works in review",
+    "text": "Available works in review\nSmith, Daniel JB, et al. “Why there are so many definitions of fitness in models.” EcoEvoRxiv (2024).\nSmith, Daniel JB, and Joanna Masel. “The Interaction Between Exploitative and Interference Competition: Limits to R* Theory.” bioRxiv (2023): 2023-09.\nSmith, Daniel JB. “On the interaction between Janzen-Connell effects and habitat partitioning in spatially structured environments.” bioRxiv (2022): 2022-04."
+  },
+  {
+    "objectID": "Publications/index.html#in-prep",
+    "href": "Publications/index.html#in-prep",
+    "title": "Publications",
+    "section": "In prep",
+    "text": "In prep\nLuke paper\nCNDD Measurement\nCNDD masting\nLottery?"
+  },
+  {
+    "objectID": "Publications/index.html#papers-in-review",
+    "href": "Publications/index.html#papers-in-review",
+    "title": "Publications",
+    "section": "Papers in review",
+    "text": "Papers in review\n\nMagee, Lukas, Smith, Daniel JB, et al. (shared 1st authorship), “Memories of trees past: coexistence implications of legacy conspecific density dependence. authorea (2025). https://doi.org/10.22541/au.174197176.67910208/v1\nSmith, Daniel JB, et al. “Why there are so many definitions of fitness in models.” EcoEvoRxiv (2024). https://doi.org/10.32942/X2V61T.\nSmith, Daniel JB and Masel, Joanna. “The Interaction Between Exploitative and Interference Competition: Limits to R* Theory.” bioRxiv (2023): 2023-09. https://doi.org/10.1101/2023.09.27.559600.\nSmith, Daniel JB. “On the interaction between Janzen-Connell effects and habitat partitioning in spatially structured environments.” bioRxiv (2022). https://doi.org/10.1101/2022.04.11.487940."
+  },
+  {
+    "objectID": "Publications/index.html#papers-in-prep",
+    "href": "Publications/index.html#papers-in-prep",
+    "title": "Publications",
+    "section": "Papers in prep",
+    "text": "Papers in prep\n\nSmith, Daniel JB “The effect of demographic traits and environmental conditions on conspecific negative density dependence.” In prep.\nSmith, Daniel JB “The interaction of predator satiation and specialized predation in masting plant populations.” In prep.\nKalyuzhny, Michael, Smith, Daniel JB, and Ostling, Annette. “The life history stage generating negative conspecific density-dependence qualitatively changes competitive outcomes in stage-structured populations.” In prep.\nKrishnadas, Meghna…Smith, Daniel JB, et al. “Conspecific density dependence in plant communities: a theory-based toolkit for empirical studies.” In prep."
+  },
+  {
+    "objectID": "Outreach/index.html",
+    "href": "Outreach/index.html",
+    "title": "Outreach and Teaching",
+    "section": "",
+    "text": "I am the creator of the YouTube channel LifeEquations. In each video, I (attempt to) explain a complex theoretical topic or model in ecology in simple terms.\nHere’s my latest video:\n\n\nAnd here are several other ecology-related videos from the channel!"
+  },
+  {
+    "objectID": "Research/index.html#how-interfernece-competition-affects-coexistence",
+    "href": "Research/index.html#how-interfernece-competition-affects-coexistence",
+    "title": "Research",
+    "section": "🦅 How interfernece competition affects coexistence 🕊",
+    "text": "🦅 How interfernece competition affects coexistence 🕊\nIn ecology, researchers often talk about two types of competition: exploitative competition and interference competition. Exploitative competition refers indirect competition between (or within) species for mutually shared resources. Interference competition refers to direct interactions between organisms (e.g., stealing resources in contests, territoriality, stabbing and toxin-antitoxin systems in microbes).\nThe majority of “mechanistic” models and theories in community ecology – such as R* theory and the R* rule – emphasize exploitative competition and ignore interference competition. In contrast, the Hawk-Dove game from evolutionary game theory is a classic model in which interference competition is emphasized. Similarly, the competition-colonization trade-off is a classic coexistence mechanism in theoretical community ecology which implicitly relies on interference competition, at least within certain interpretations. However, R* theory, the Hawk-Dove game, and the competition-colonization trade-off have not been integrated into a unified framework.\nIn our recent paper currently under review, Dr. Joanna Masel and I expand a simple exploitative consumer-resource model to include interference competition over resources. As depicted in the figure below, we consider a model in which one individuals (e.g., the deer) may contest others over the use of resources. Through this model, we find that two consumer species can persist on a single limiting resource due to interference (in contrast to classical ecological theory such as the R* rule). We find that some of the parameter space resembles the R* rule, other parts resemble the Hawk-Dove game, and other parts the competition-colonization trade-off. We also find evidence of novel coexistence mechanism which we refer to as the “submission-discovery” trade-off.\n (A) is a visualization of the model, depicting a single species that consumes resources and engages in contests over resources. (B) shows parameter space in which interference competition may permit coexistence of two consumer species competing for a single limiting resource (first row) and the predominant mechanism underlying the competitive outcome (second row).  Link to article on BioRxiv\nIn upcoming work, we will expand this model to include trait evolution. We aim to elucidate how interference competition modifies niche evolution and character displacement."
+  },
+  {
+    "objectID": "Talks/index.html#contributed-talks",
+    "href": "Talks/index.html#contributed-talks",
+    "title": "Talks",
+    "section": "Contributed Talks",
+    "text": "Contributed Talks\n\nSmith, Daniel JB, et al. “Why there are so many definitions of fitness in models.” Evolution 2024, Montreal, Canada, 2024.\nSmith, Daniel JB. “Janzen-Connell effects and habitat-induced aggregation synergistically promote species coexistence.” Barro Colorado Island 100 Years Symposium, Gamboa, Panama, June 2024.\nSmith, Daniel JB, and Masel, Joanna. “The Interaction Between Exploitative and Interference Competition: Limits to R* Theory.” Evolution 2023, Albuquerque, New Mexico, 2023.\nSmith, Daniel JB, “The Functional Form of Specialized Predation Affects Whether Janzen-Connell Effects Can Prevent Competitive Exclusion.” Ecological Society of America Annual Meeting, 2021 (virtual).\nSmith, Daniel JB, Singha, S., Banerjee, I. “Multimodel Climate Emulation of the CMIP-6 Archive.” UChicago Geoscience PhD ‘Expo’ (virtual), 2020.\nSmith, Daniel JB and Amarasekare, Priyanga. “Optimizations in a Variable World: On Latitudinal Trends of the Temperature Response of Fecundity.” Ecological Society of America Annual Meeting, New Orleans, LA, USA, 2018.\nSmith, Daniel JB and Amarasekare, Priyanga. “On the Temperature Response of Ectotherm Fecundity.” Society of Naturalists Meeting, Pacific Grove, CA, USA, 2018.\nSmith, Daniel JB and Amarasekare, Priyanga. “Towards a Mechanistic Basis of the Thermal Plasticity of Ectotherm Fecundity.” Ecological Society of America Annual Meeting, Portland, OR, USA, 2017.\nSmith, Daniel JB and Amarasekare, Priyanga. “A Mechanistic Framework for Temperature Mediated Niche Partitioning in Ectotherms.” UCLA Science Poster Day, June 2015.\nSmith, Daniel JB and Amarasekare, Priyanga. “A Mechanistic Framework for Temperature Mediated Niche Partitioning in Ectotherms.” UCLA Ecology and Evolutionary Biology Symposium, June 2015."
+  },
+  {
+    "objectID": "Research/index.html#the-effect-of-temperature-on-competition-in-ecotherms",
+    "href": "Research/index.html#the-effect-of-temperature-on-competition-in-ecotherms",
+    "title": "Research",
+    "section": "🪲 The effect of temperature on competition in ecotherms 🌡️",
+    "text": "🪲 The effect of temperature on competition in ecotherms 🌡️\nIn collaboration with Dr. Priyanga Amarasekare…\n\nLink to article published in The American Naturalist\nIn collaboration with Dr. Priyanga Amarasekare…"
+  },
+  {
+    "objectID": "Outreach/index.html#reshaping-quantiative-education-in-the-biological-sciences",
+    "href": "Outreach/index.html#reshaping-quantiative-education-in-the-biological-sciences",
+    "title": "Outreach and Teaching",
+    "section": "Reshaping quantiative education in the biological sciences",
+    "text": "Reshaping quantiative education in the biological sciences\nAt the inaugural meeting of the Society for Modeling and Theory in Population Biology in Banff (Alberta, Canada), we formed a committee to enact change in teaching the biological sciences. Our primary goals is to better integrate mathematical and quantitative reasoning into biological curriculums in higher education. For information about the society can be found here.\n This is a picture from the first in-person meeting!"
+  },
+  {
+    "objectID": "Research/index.html#the-effect-of-temperature-on-competition-in-ectotherms",
+    "href": "Research/index.html#the-effect-of-temperature-on-competition-in-ectotherms",
+    "title": "Research",
+    "section": "🪲 The effect of temperature on competition in ectotherms 🌡️",
+    "text": "🪲 The effect of temperature on competition in ectotherms 🌡️\nMy first research project concerned how temperature affects coexistence in ectotherms (e.g., insects, reptiles, amphibians, fish). I performed this research with Dr. Priyanga Amarasekare.\nIn this project, we first built a mathematical model of ordinary differential equations describing exploitative competition between two ectotherm consumers sharing a single resource (see “The model” in the below figure and see the paper for more details). Importantly, key vital rates of ectotherms exhibit well-characterized responses to temperature (e.g., consumer attack rate / birth rate and mortality rate; see “thermal response of parasitoids”, panels a-d for an example). We then asked the question: “if we include seasonal temperature variation, when might the two consumer species coexist?” and derived conditions under which we expect deterministic coexistence in the model.\n The left-hand equations show the system of ordinary differential equations describing the dynamics of the Resource (\\(R\\)), Consumer 1 (\\(C_1\\)) and Consumer 2 (\\(C_2\\)). a-d show the thermal responses of the two egg parasitoids (Trissolcus murgantiae and Ooencyrtus johnsonii). a and b show how per capita egg attack rates respond to temperature; c and d show how temperature affects mortality. e and f are plots depicting the region of coexistence for the parasitoids; the blue point shows the model parameterized with the the data in a-d. g and h show the time series from (g) the parameterized model and (h) data from the field.  Link to article published in The American Naturalist\nWe then applied the model to a naturally occurring insect community: the harlequin bug (Murgantia histrionica) and its two egg parasitoids (Trissolcus murgantiae and Ooencyrtus johnsonii) which compete in the wild (see the above figure, panels a-d for visualizations of how temperature affects the parasitoids’ vital rates). We find that the conditions for coexistence in the model are realized when parameterized with the measured temperature response of parasitoids (see the blue dot in panels e-f). Furthermore, the parameterized model gives a time series output for the parasitoids abundances (panel g) that is very similar to the parasitoid abundances measured in the field (panel h)."
+  },
+  {
+    "objectID": "Research/index.html#natural-enemies-and-plant-diversity",
+    "href": "Research/index.html#natural-enemies-and-plant-diversity",
+    "title": "Research",
+    "section": "🦠 Natural enemies and plant diversity 🌱",
+    "text": "🦠 Natural enemies and plant diversity 🌱\nHistorically, work in community ecology focused on species interactions that take place within a defined environment that exists independent of the species – in other words, species have been figuratively treated like actors upon an environmental stage that preexists them. This view is no longer substantiated: recent decades have seen an explosion of research into how organisms shape their environments.\nOne such process involves plants and their natural enemies (e.g. insects, fungi and pathogens). Empirical evidence shows that specialized pathogens and pests are attracted to areas of high host plant density, which may strongly affect plant growth and survival. This phenomonon, in part, motivates agriculturalists to perform crop rotations, which can keep natural enemies (soil pathogens) at bay. While specialized pests and pathogens are often a nuisance and threat in the anthropocentric world of agriculture, they may have profound and fascinating implications for species interactions in the natural world.\nIn particular, observations show that specialized natural enemies reduce the survival of juvenile plants (e.g. seedlings) when they are near conspecific adult trees. These phenomena are often referred to as ``Janzen-Connell effects’’ (JCEs), named after the scientists who proposed the idea. JCEs are thought to promote coexistence by generating so-called negative frequency dependence: as a species becomes more common, its offspring experience JCEs in a larger proportion of the environment. This reduces the success of common species relative to rare species, which facilitates species coexistence.\n A visualization of JCEs and empirical evidence. (A) shows how JCEs occur. [1] Consider a focal species, the green tree. It locally disperses some of its offspring. [2] Heterospecific species disperse some of their offspring to the area as well. Color indicates species. [3] Janzen Connell Effects refer to the observation that either the presence of the adult tree, the relatively high density of its nearby offspring, or a combination of these factors attracts specialized natural enemies such as insect herbivores or fugal pathogens. [4] The presence of these specialized natural enemies reduce the survival of our focal species’ nearby offspring (most often during the seed-to-seedling transition). [5] The key idea is that when the adult occupying the patch dies and [6] the remaining individuals compete for the gap, the relatively high mortality our focal green species experienced makes it [7] less likely than the other species to colonize the patch (at least relative to when this processes doesn’t occur). (B) and (C) show empirical evidence from Comita et al. 2014 and Song et al. 2021 that seedling mortality tends to increase in areas of high density and/or near conspecific adults. \nHowever, the efficacy of this mechanism remains contested on theoretical grounds. Much of my PhD work focused on elucidating how and when JCEs are theoretically expected to maintain species richness. For example, JCEs are expected to decrease the survival of conspecific offspring near adults. How exactly does survival change with conspecific adult distance and density? The below figure shows four different assumptions common in theoretical models and statistical fits of JCEs (in which redder shading indicates stronger JCEs / higher mortality). As it turns out, the ability of JCEs to maintain species richness strongly depends on which distance and density dependent functional forms are assumed. See my published work for more details on this project.\n Visualizations of different JCE function forms with respect to adult conspecific density and distance.  Link to article published in Ecology Letters\nMore recently, I have investigated how the simultaneous occurance of JCEs and abiotic habitat hetergeneity affect species richness and how JCEs decay with space and time with a group of excellent collaborators.\nI am currently collaborating with Dr. Annette Ostling and Dr. Brian Sedio. We are integrating analyses of secondary metabolite data from leaves (which correlate with pathogen resistance) with theoretical modeling to examine how the network of pathogen resistance similarity/dissimilarity between tree species shapes species richness in forest communities throughout the world. Hopefully, we will have exciting products to share with you soon!"
+  },
+  {
+    "objectID": "Research/index.html#Sec1",
+    "href": "Research/index.html#Sec1",
+    "title": "Research",
+    "section": "🦠 Natural enemies and plant diversity 🌱",
+    "text": "🦠 Natural enemies and plant diversity 🌱\nHistorically, work in community ecology focused on species interactions that take place within a defined environment that exists independent of the species – in other words, species have been figuratively treated like actors upon an environmental stage that preexists them. This view is no longer substantiated: recent decades have seen an explosion of research into how organisms shape their environments.\nOne such process involves plants and their natural enemies (e.g. insects, fungi and pathogens). Empirical evidence shows that specialized pathogens and pests are attracted to areas of high host plant density, which may strongly affect plant growth and survival. This phenomonon, in part, motivates agriculturalists to perform crop rotations, which can keep natural enemies (soil pathogens) at bay. While specialized pests and pathogens are often a nuisance and threat in the anthropocentric world of agriculture, they may have profound and fascinating implications for species interactions in the natural world.\nIn particular, observations show that specialized natural enemies reduce the survival of juvenile plants (e.g. seedlings) when they are near conspecific adult trees. These phenomena are often referred to as ``Janzen-Connell effects’’ (JCEs), named after the scientists who proposed the idea. JCEs are thought to promote coexistence by generating so-called negative frequency dependence: as a species becomes more common, its offspring experience JCEs in a larger proportion of the environment. This reduces the success of common species relative to rare species, which facilitates species coexistence.\n A visualization of JCEs and empirical evidence. (A) shows how JCEs occur. [1] Consider a focal species, the green tree. It locally disperses some of its offspring. [2] Heterospecific species disperse some of their offspring to the area as well. Color indicates species. [3] Janzen Connell Effects refer to the observation that either the presence of the adult tree, the relatively high density of its nearby offspring, or a combination of these factors attracts specialized natural enemies such as insect herbivores or fugal pathogens. [4] The presence of these specialized natural enemies reduce the survival of our focal species’ nearby offspring (most often during the seed-to-seedling transition). [5] The key idea is that when the adult occupying the patch dies and [6] the remaining individuals compete for the gap, the relatively high mortality our focal green species experienced makes it [7] less likely than the other species to colonize the patch (at least relative to when this processes doesn’t occur). (B) and (C) show empirical evidence from Comita et al. 2014 and Song et al. 2021 that seedling mortality tends to increase in areas of high density and/or near conspecific adults. \nHowever, the efficacy of this mechanism remains contested on theoretical grounds. Much of my PhD work focused on elucidating how and when JCEs are theoretically expected to maintain species richness. For example, JCEs are expected to decrease the survival of conspecific offspring near adults. How exactly does survival change with conspecific adult distance and density? The below figure shows four different assumptions common in theoretical models and statistical fits of JCEs (in which redder shading indicates stronger JCEs / higher mortality). As it turns out, the ability of JCEs to maintain species richness strongly depends on which distance and density dependent functional forms are assumed. See my published work for more details on this project.\n Visualizations of different JCE function forms with respect to adult conspecific density and distance.  Link to article published in Ecology Letters\nMore recently, I have investigated how the simultaneous occurance of JCEs and abiotic habitat hetergeneity affect species richness and how JCEs decay with space and time with a group of excellent collaborators.\nI am currently collaborating with Dr. Annette Ostling and Dr. Brian Sedio. We are integrating analyses of secondary metabolite data from leaves (which correlate with pathogen resistance) with theoretical modeling to examine how the network of pathogen resistance similarity/dissimilarity between tree species shapes species richness in forest communities throughout the world. Hopefully, we will have exciting products to share with you soon!"
+  },
+  {
+    "objectID": "Research/index.html#hedd-Sec1",
+    "href": "Research/index.html#hedd-Sec1",
+    "title": "Research",
+    "section": "🦠 Natural enemies and plant diversity 🌱",
+    "text": "🦠 Natural enemies and plant diversity 🌱\nHistorically, work in community ecology focused on species interactions that take place within a defined environment that exists independent of the species – in other words, species have been figuratively treated like actors upon an environmental stage that preexists them. This view is no longer substantiated: recent decades have seen an explosion of research into how organisms shape their environments.\nOne such process involves plants and their natural enemies (e.g. insects, fungi and pathogens). Empirical evidence shows that specialized pathogens and pests are attracted to areas of high host plant density, which may strongly affect plant growth and survival. This phenomonon, in part, motivates agriculturalists to perform crop rotations, which can keep natural enemies (soil pathogens) at bay. While specialized pests and pathogens are often a nuisance and threat in the anthropocentric world of agriculture, they may have profound and fascinating implications for species interactions in the natural world.\nIn particular, observations show that specialized natural enemies reduce the survival of juvenile plants (e.g. seedlings) when they are near conspecific adult trees. These phenomena are often referred to as ``Janzen-Connell effects’’ (JCEs), named after the scientists who proposed the idea. JCEs are thought to promote coexistence by generating so-called negative frequency dependence: as a species becomes more common, its offspring experience JCEs in a larger proportion of the environment. This reduces the success of common species relative to rare species, which facilitates species coexistence.\n A visualization of JCEs and empirical evidence. (A) shows how JCEs occur. [1] Consider a focal species, the green tree. It locally disperses some of its offspring. [2] Heterospecific species disperse some of their offspring to the area as well. Color indicates species. [3] Janzen Connell Effects refer to the observation that either the presence of the adult tree, the relatively high density of its nearby offspring, or a combination of these factors attracts specialized natural enemies such as insect herbivores or fugal pathogens. [4] The presence of these specialized natural enemies reduce the survival of our focal species’ nearby offspring (most often during the seed-to-seedling transition). [5] The key idea is that when the adult occupying the patch dies and [6] the remaining individuals compete for the gap, the relatively high mortality our focal green species experienced makes it [7] less likely than the other species to colonize the patch (at least relative to when this processes doesn’t occur). (B) and (C) show empirical evidence from Comita et al. 2014 and Song et al. 2021 that seedling mortality tends to increase in areas of high density and/or near conspecific adults. \nHowever, the efficacy of this mechanism remains contested on theoretical grounds. Much of my PhD work focused on elucidating how and when JCEs are theoretically expected to maintain species richness. For example, JCEs are expected to decrease the survival of conspecific offspring near adults. How exactly does survival change with conspecific adult distance and density? The below figure shows four different assumptions common in theoretical models and statistical fits of JCEs (in which redder shading indicates stronger JCEs / higher mortality). As it turns out, the ability of JCEs to maintain species richness strongly depends on which distance and density dependent functional forms are assumed. See my published work for more details on this project.\n Visualizations of different JCE function forms with respect to adult conspecific density and distance.  Link to article published in Ecology Letters\nMore recently, I have investigated how the simultaneous occurance of JCEs and abiotic habitat hetergeneity affect species richness and how JCEs decay with space and time with a group of excellent collaborators.\nI am currently collaborating with Dr. Annette Ostling and Dr. Brian Sedio. We are integrating analyses of secondary metabolite data from leaves (which correlate with pathogen resistance) with theoretical modeling to examine how the network of pathogen resistance similarity/dissimilarity between tree species shapes species richness in forest communities throughout the world. Hopefully, we will have exciting products to share with you soon!"
+  },
+  {
+    "objectID": "Research/index.html#sec-Sec1",
+    "href": "Research/index.html#sec-Sec1",
+    "title": "Research",
+    "section": "🦠 Natural enemies and plant diversity 🌱",
+    "text": "🦠 Natural enemies and plant diversity 🌱\nHistorically, work in community ecology focused on species interactions that take place within a defined environment that exists independent of the species – in other words, species have been figuratively treated like actors upon an environmental stage that preexists them. This view is no longer substantiated: recent decades have seen an explosion of research into how organisms shape their environments.\nOne such process involves plants and their natural enemies (e.g. insects, fungi and pathogens). Empirical evidence shows that specialized pathogens and pests are attracted to areas of high host plant density, which may strongly affect plant growth and survival. This phenomonon, in part, motivates agriculturalists to perform crop rotations, which can keep natural enemies (soil pathogens) at bay. While specialized pests and pathogens are often a nuisance and threat in the anthropocentric world of agriculture, they may have profound and fascinating implications for species interactions in the natural world.\nIn particular, observations show that specialized natural enemies reduce the survival of juvenile plants (e.g. seedlings) when they are near conspecific adult trees. These phenomena are often referred to as ``Janzen-Connell effects’’ (JCEs), named after the scientists who proposed the idea. JCEs are thought to promote coexistence by generating so-called negative frequency dependence: as a species becomes more common, its offspring experience JCEs in a larger proportion of the environment. This reduces the success of common species relative to rare species, which facilitates species coexistence.\n A visualization of JCEs and empirical evidence. (A) shows how JCEs occur. [1] Consider a focal species, the green tree. It locally disperses some of its offspring. [2] Heterospecific species disperse some of their offspring to the area as well. Color indicates species. [3] Janzen Connell Effects refer to the observation that either the presence of the adult tree, the relatively high density of its nearby offspring, or a combination of these factors attracts specialized natural enemies such as insect herbivores or fugal pathogens. [4] The presence of these specialized natural enemies reduce the survival of our focal species’ nearby offspring (most often during the seed-to-seedling transition). [5] The key idea is that when the adult occupying the patch dies and [6] the remaining individuals compete for the gap, the relatively high mortality our focal green species experienced makes it [7] less likely than the other species to colonize the patch (at least relative to when this processes doesn’t occur). (B) and (C) show empirical evidence from Comita et al. 2014 and Song et al. 2021 that seedling mortality tends to increase in areas of high density and/or near conspecific adults. \nHowever, the efficacy of this mechanism remains contested on theoretical grounds. Much of my PhD work focused on elucidating how and when JCEs are theoretically expected to maintain species richness. For example, JCEs are expected to decrease the survival of conspecific offspring near adults. How exactly does survival change with conspecific adult distance and density? The below figure shows four different assumptions common in theoretical models and statistical fits of JCEs (in which redder shading indicates stronger JCEs / higher mortality). As it turns out, the ability of JCEs to maintain species richness strongly depends on which distance and density dependent functional forms are assumed. See my published work for more details on this project.\n Visualizations of different JCE function forms with respect to adult conspecific density and distance.  Link to article published in Ecology Letters\nMore recently, I have investigated how the simultaneous occurance of JCEs and abiotic habitat hetergeneity affect species richness and how JCEs decay with space and time with a group of excellent collaborators.\nI am currently collaborating with Dr. Annette Ostling and Dr. Brian Sedio. We are integrating analyses of secondary metabolite data from leaves (which correlate with pathogen resistance) with theoretical modeling to examine how the network of pathogen resistance similarity/dissimilarity between tree species shapes species richness in forest communities throughout the world. Hopefully, we will have exciting products to share with you soon!"
+  },
+  {
+    "objectID": "Natural enemies and plant diversity/index.html",
+    "href": "Natural enemies and plant diversity/index.html",
+    "title": "🦠 Natural enemies and plant diversity 🌱",
+    "section": "",
+    "text": "Historically, work in community ecology focused on species interactions that take place within a defined environment that exists independent of the species – in other words, species have been figuratively treated like actors upon an environmental stage that preexists them. This view is no longer substantiated: recent decades have seen an explosion of research into how organisms shape their environments.\nOne such process involves plants and their natural enemies (e.g. insects, fungi and pathogens). Empirical evidence shows that specialized pathogens and pests are attracted to areas of high host plant density, which may strongly affect plant growth and survival. This phenomonon, in part, motivates agriculturalists to perform crop rotations, which can keep natural enemies (soil pathogens) at bay. While specialized pests and pathogens are often a nuisance and threat in the anthropocentric world of agriculture, they may have profound and fascinating implications for species interactions in the natural world.\nIn particular, observations show that specialized natural enemies reduce the survival of juvenile plants (e.g. seedlings) when they are near conspecific adult trees. These phenomena are often referred to as ``Janzen-Connell effects’’ (JCEs), named after the scientists who proposed the idea. JCEs are thought to promote coexistence by generating so-called negative frequency dependence: as a species becomes more common, its offspring experience JCEs in a larger proportion of the environment. This reduces the success of common species relative to rare species, which facilitates species coexistence.\n A visualization of JCEs and empirical evidence. (A) shows how JCEs occur. [1] Consider a focal species, the green tree. It locally disperses some of its offspring. [2] Heterospecific species disperse some of their offspring to the area as well. Color indicates species. [3] Janzen Connell Effects refer to the observation that either the presence of the adult tree, the relatively high density of its nearby offspring, or a combination of these factors attracts specialized natural enemies such as insect herbivores or fugal pathogens. [4] The presence of these specialized natural enemies reduce the survival of our focal species’ nearby offspring (most often during the seed-to-seedling transition). [5] The key idea is that when the adult occupying the patch dies and [6] the remaining individuals compete for the gap, the relatively high mortality our focal green species experienced makes it [7] less likely than the other species to colonize the patch (at least relative to when this processes doesn’t occur). (B) and (C) show empirical evidence from Comita et al. 2014 and Song et al. 2021 that seedling mortality tends to increase in areas of high density and/or near conspecific adults. \nHowever, the efficacy of this mechanism remains contested on theoretical grounds. Much of my PhD work focused on elucidating how and when JCEs are theoretically expected to maintain species richness. For example, JCEs are expected to decrease the survival of conspecific offspring near adults. How exactly does survival change with conspecific adult distance and density? The below figure shows four different assumptions common in theoretical models and statistical fits of JCEs (in which redder shading indicates stronger JCEs / higher mortality). As it turns out, the ability of JCEs to maintain species richness strongly depends on which distance and density dependent functional forms are assumed. See my published work for more details on this project.\n Visualizations of different JCE function forms with respect to adult conspecific density and distance.  Link to article published in Ecology Letters\nMore recently, I have investigated how the simultaneous occurance of JCEs and abiotic habitat hetergeneity affect species richness and how JCEs decay with space and time with a group of excellent collaborators.\nI am currently collaborating with Dr. Annette Ostling and Dr. Brian Sedio. We are integrating analyses of secondary metabolite data from leaves (which correlate with pathogen resistance) with theoretical modeling to examine how the network of pathogen resistance similarity/dissimilarity between tree species shapes species richness in forest communities throughout the world. Hopefully, we will have exciting products to share with you soon!",
+    "crumbs": [
+      "🦠 Natural enemies and plant diversity 🌱"
+    ]
+  },
+  {
+    "objectID": "How interfernece competition affects coexistence/index.html",
+    "href": "How interfernece competition affects coexistence/index.html",
+    "title": "🦅 How interfernece competition affects coexistence 🕊",
+    "section": "",
+    "text": "In ecology, researchers often talk about two types of competition: exploitative competition and interference competition. Exploitative competition refers indirect competition between (or within) species for mutually shared resources. Interference competition refers to direct interactions between organisms (e.g., stealing resources in contests, territoriality, stabbing and toxin-antitoxin systems in microbes).\nThe majority of “mechanistic” models and theories in community ecology – such as R* theory and the R* rule – emphasize exploitative competition and ignore interference competition. In contrast, the Hawk-Dove game from evolutionary game theory is a classic model in which interference competition is emphasized. Similarly, the competition-colonization trade-off is a classic coexistence mechanism in theoretical community ecology which implicitly relies on interference competition, at least within certain interpretations. However, R* theory, the Hawk-Dove game, and the competition-colonization trade-off have not been integrated into a unified framework.\n (A) is a visualization of the model, depicting a single species that consumes resources and engages in contests over resources. (B) shows parameter space in which interference competition may permit coexistence of two consumer species competing for a single limiting resource (first row) and the predominant mechanism underlying the competitive outcome (second row).  Link to article on BioRxiv\nIn our recent paper currently under review, Dr. Joanna Masel and I expand a simple exploitative consumer-resource model to include interference competition over resources. As depicted in the figure below, we consider a model in which one individuals (e.g., the deer) may contest others over the use of resources. Through this model, we find that two consumer species can persist on a single limiting resource due to interference (in contrast to classical ecological theory such as the R* rule). We find that some of the parameter space resembles the R* rule, other parts resemble the Hawk-Dove game, and other parts the competition-colonization trade-off. We also find evidence of novel coexistence mechanism which we refer to as the “submission-discovery” trade-off.\nIn upcoming work, we will expand this model to include trait evolution. We aim to elucidate how interference competition modifies niche evolution and character displacement.",
+    "crumbs": [
+      "🦅 How interfernece competition affects coexistence 🕊"
+    ]
+  },
+  {
+    "objectID": "How interfernece competition affects coexistence/index.html#what-is-fitness",
+    "href": "How interfernece competition affects coexistence/index.html#what-is-fitness",
+    "title": "🦅 How interfernece competition affects coexistence 🕊",
+    "section": "What is “fitness”?",
+    "text": "What is “fitness”?\nThe term “fitness” is thrown around all the time in ecology and evolutionary biology. But what does it exactly mean? This kind of question calls for a philosopher (which I am not). To get at this question, Dr. Joanna Masel and I teamed up with some philosophers to investigate! Ultimately, we propose that there are two different “types” of fitness evolutionary biologists refer to in models: (1) short-term fitness, which are summaries of vital rates (e.g., the Malthusian parameter) and (2) long-term fitness (e.g., the probability an allele fixes in a population). The below figures summarizes our view of fitness and its operationalizations. See our preprint for details.\n Our “fitness” schematic.  Link to article on EcoEvoRxiv\nHere is a link to an excellant talk by Dr. Joanna Masel on this project and related works that elegantly summarizes many of our views."
+  },
+  {
+    "objectID": "How interfernece competition affects coexistence/index.html#the-effect-of-temperature-on-competition-in-ectotherms",
+    "href": "How interfernece competition affects coexistence/index.html#the-effect-of-temperature-on-competition-in-ectotherms",
+    "title": "🦅 How interfernece competition affects coexistence 🕊",
+    "section": "🪲 The effect of temperature on competition in ectotherms 🌡️",
+    "text": "🪲 The effect of temperature on competition in ectotherms 🌡️\nMy first research project concerned how temperature affects coexistence in ectotherms (e.g., insects, reptiles, amphibians, fish). I performed this research with Dr. Priyanga Amarasekare.\nIn this project, we first built a mathematical model of ordinary differential equations describing exploitative competition between two ectotherm consumers sharing a single resource (see “The model” in the below figure and see the paper for more details). Importantly, key vital rates of ectotherms exhibit well-characterized responses to temperature (e.g., consumer attack rate / birth rate and mortality rate; see “thermal response of parasitoids”, panels a-d for an example). We then asked the question: “if we include seasonal temperature variation, when might the two consumer species coexist?” and derived conditions under which we expect deterministic coexistence in the model.\n The left-hand equations show the system of ordinary differential equations describing the dynamics of the Resource (\\(R\\)), Consumer 1 (\\(C_1\\)) and Consumer 2 (\\(C_2\\)). a-d show the thermal responses of the two egg parasitoids (Trissolcus murgantiae and Ooencyrtus johnsonii). a and b show how per capita egg attack rates respond to temperature; c and d show how temperature affects mortality. e and f are plots depicting the region of coexistence for the parasitoids; the blue point shows the model parameterized with the the data in a-d. g and h show the time series from (g) the parameterized model and (h) data from the field.  Link to article published in The American Naturalist\nWe then applied the model to a naturally occurring insect community: the harlequin bug (Murgantia histrionica) and its two egg parasitoids (Trissolcus murgantiae and Ooencyrtus johnsonii) which compete in the wild (see the above figure, panels a-d for visualizations of how temperature affects the parasitoids’ vital rates). We find that the conditions for coexistence in the model are realized when parameterized with the measured temperature response of parasitoids (see the blue dot in panels e-f). Furthermore, the parameterized model gives a time series output for the parasitoids abundances (panel g) that is very similar to the parasitoid abundances measured in the field (panel h)."
+  },
+  {
+    "objectID": "What is fitness/index.html",
+    "href": "What is fitness/index.html",
+    "title": "🧬 What is “fitness”?",
+    "section": "",
+    "text": "The term “fitness” is thrown around all the time in ecology and evolutionary biology. But what does it exactly mean? This kind of question calls for a philosopher (which I am not). To get at this question, Dr. Joanna Masel and I teamed up with some philosophers to investigate! Ultimately, we propose that there are two different “types” of fitness evolutionary biologists refer to in models: (1) short-term fitness, which are summaries of vital rates (e.g., the Malthusian parameter) and (2) long-term fitness (e.g., the probability an allele fixes in a population). The below figures summarizes our view of fitness and its operationalizations. See our preprint for details.\n Our “fitness” schematic.  Link to article on EcoEvoRxiv\n Here is a link to an excellant talk by Dr. Joanna Masel on this project and related works that elegantly summarizes many of our views."
+  },
+  {
+    "objectID": "What is fitness/index.html#here-is-a-link-to-an-excellant-talk-by-dr.-joanna-masel-on-this-project-and-related-works-that-elegantly-summarizes-many-of-our-views.",
+    "href": "What is fitness/index.html#here-is-a-link-to-an-excellant-talk-by-dr.-joanna-masel-on-this-project-and-related-works-that-elegantly-summarizes-many-of-our-views.",
+    "title": "🧬 What is “fitness”?",
+    "section": "Here is a link to an excellant talk by Dr. Joanna Masel on this project and related works that elegantly summarizes many of our views.",
+    "text": "Here is a link to an excellant talk by Dr. Joanna Masel on this project and related works that elegantly summarizes many of our views."
+  },
+  {
+    "objectID": "The effect of temperature on competition in ectotherms/index.html",
+    "href": "The effect of temperature on competition in ectotherms/index.html",
+    "title": "🪲 How temperature affects ectotherm competition🌡️",
+    "section": "",
+    "text": "My first research project concerned how temperature affects coexistence in ectotherms (e.g., insects, reptiles, amphibians, fish). I performed this research with Dr. Priyanga Amarasekare.\nIn this project, we first built a mathematical model of ordinary differential equations describing exploitative competition between two ectotherm consumers sharing a single resource (see “The model” in the below figure and see the paper for more details). Importantly, key vital rates of ectotherms exhibit well-characterized responses to temperature (e.g., consumer attack rate / birth rate and mortality rate; see “thermal response of parasitoids”, panels a-d for an example). We then asked the question: “if we include seasonal temperature variation, when might the two consumer species coexist?” and derived conditions under which we expect deterministic coexistence in the model.\n The left-hand equations show the system of ordinary differential equations describing the dynamics of the Resource (\\(R\\)), Consumer 1 (\\(C_1\\)) and Consumer 2 (\\(C_2\\)). a-d show the thermal responses of the two egg parasitoids (Trissolcus murgantiae and Ooencyrtus johnsonii). a and b show how per capita egg attack rates respond to temperature; c and d show how temperature affects mortality. e and f are plots depicting the region of coexistence for the parasitoids; the blue point shows the model parameterized with the the data in a-d. g and h show the time series from (g) the parameterized model and (h) data from the field.  Link to article published in The American Naturalist\nWe then applied the model to a naturally occurring insect community: the harlequin bug (Murgantia histrionica) and its two egg parasitoids (Trissolcus murgantiae and Ooencyrtus johnsonii) which compete in the wild (see the above figure, panels a-d for visualizations of how temperature affects the parasitoids’ vital rates). We find that the conditions for coexistence in the model are realized when parameterized with the measured temperature response of parasitoids (see the blue dot in panels e-f). Furthermore, the parameterized model gives a time series output for the parasitoids abundances (panel g) that is very similar to the parasitoid abundances measured in the field (panel h).\nI am currently performing an analysis of insect and arachnid fecundity temperatures responses across latitudes. I am using a simple mathematical model to predict how mean annual temperature and the amplitude of thermal variation shapes the evolution of thermal responses across the globe and testing the predictions of the theory against data.",
+    "crumbs": [
+      "🪲 How temperature affects ectotherm competition🌡️"
+    ]
+  },
+  {
+    "objectID": "Fundamental Models in Ecology/index.html",
+    "href": "Fundamental Models in Ecology/index.html",
+    "title": "Fundamental Models in Ecology",
+    "section": "",
+    "text": "data = data.frame(\n  year = c(2021, 2022, 2023),\n  budget = c(\"$100\", \"$200\", \"$300\"),\n  profit = c(\"$100\", \"$200\", \"$300\")\n)"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index.html#subsection-two",
+    "href": "Fundamental Models and Concepts in Ecology/index.html#subsection-two",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "2.1 Subsection Two",
+    "text": "2.1 Subsection Two\n2.1.1 Sub-subsection Two\n2.1.2 Sub-subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index.html#subsection-three",
+    "href": "Fundamental Models and Concepts in Ecology/index.html#subsection-three",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "## 2.2 Subsection Three",
+    "text": "## 2.2 Subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Chapter_1.html#subsection-two",
+    "href": "Fundamental Models and Concepts in Ecology/Chapter_1.html#subsection-two",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "2.1 Subsection Two",
+    "text": "2.1 Subsection Two\n2.1.1 Sub-subsection Two\n2.1.2 Sub-subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Chapter_1.html#subsection-three",
+    "href": "Fundamental Models and Concepts in Ecology/Chapter_1.html#subsection-three",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "## 2.2 Subsection Three",
+    "text": "## 2.2 Subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index.html",
+    "href": "Fundamental Models and Concepts in Ecology/index.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Word.\n\nI am going to learn a lot: \nTRUE\nFALSE\nWhat is a p-value?\n\nthe probability that the null hypothesis is truethe probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is truethe probability of making an error in your conclusion\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important.\n\n\n\n\n\n\n\n\nTip With Caption\n\n\n\nThis is an example of a callout with a caption.\n\n\nWhat function loads a package that is already on your computer? \ninstall.package\ninstall.packages\nlibrary\nlibraries"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Density_Dependent.html#subsection-two",
+    "href": "Fundamental Models and Concepts in Ecology/Density_Dependent.html#subsection-two",
+    "title": "Section 3: Density-Dependent Growth",
+    "section": "2.1 Subsection Two",
+    "text": "2.1 Subsection Two\n2.1.1 Sub-subsection Two\n2.1.2 Sub-subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Density_Dependent.html#subsection-three",
+    "href": "Fundamental Models and Concepts in Ecology/Density_Dependent.html#subsection-three",
+    "title": "Section 3: Density-Dependent Growth",
+    "section": "2.2 Subsection Three",
+    "text": "2.2 Subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Density_Independent.html#subsection-two",
+    "href": "Fundamental Models and Concepts in Ecology/Density_Independent.html#subsection-two",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "2.1 Subsection Two",
+    "text": "2.1 Subsection Two\n2.1.1 Sub-subsection Two\n2.1.2 Sub-subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Density_Independent.html#subsection-three",
+    "href": "Fundamental Models and Concepts in Ecology/Density_Independent.html#subsection-three",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "## 2.2 Subsection Three",
+    "text": "## 2.2 Subsection Three"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Introduction.html",
+    "href": "Fundamental Models and Concepts in Ecology/Introduction.html",
+    "title": "Section 1: Introduction",
+    "section": "",
+    "text": "“All models are wrong, but some are useful”"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/Introduction.html#well-start-with-some",
+    "href": "Fundamental Models and Concepts in Ecology/Introduction.html#well-start-with-some",
+    "title": "Section 1: Introduction",
+    "section": "We’ll start with some",
+    "text": "We’ll start with some"
+  },
+  {
+    "objectID": "docs/Fundamental Models and Concepts in Ecology/Index.html",
+    "href": "docs/Fundamental Models and Concepts in Ecology/Index.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Introduction"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index.html#a",
+    "href": "Fundamental Models and Concepts in Ecology/index.html#a",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "a",
+    "text": "a"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/index.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index.html#density-dependent-growth",
+    "href": "Fundamental Models and Concepts in Ecology/index.html#density-dependent-growth",
+    "title": "**Daniel J.B. Smith** | Theoretical Ecology and Evolutionary Biology",
+    "section": "# Density-dependent growth",
+    "text": "# Density-dependent growth"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/webexercises.html",
+    "href": "Fundamental Models and Concepts in Ecology/webexercises.html",
+    "title": "Webexercises",
+    "section": "",
+    "text": "This is a Web Exercise template created by the psychology teaching team at the University of Glasgow, based on ideas from Software Carpentry. This template shows how instructors can easily create interactive web documents that students can use in self-guided learning.\nThe webexercises package provides a number of functions that you use in inline R code or through code chunk options to create HTML widgets (text boxes, pull down menus, buttons that reveal hidden content). Examples are given below. Render this file to HTML to see how it works.\nNOTE: To use the widgets in the compiled HTML file, you need to have a JavaScript-enabled browser."
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/webexercises.html#example-questions",
+    "href": "Fundamental Models and Concepts in Ecology/webexercises.html#example-questions",
+    "title": "Webexercises",
+    "section": "Example Questions",
+    "text": "Example Questions\nFill-In-The-Blanks (fitb())\nCreate fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \n\n\nYou can also create these questions dynamically, using variables from your R session.\n\n\n\n\nThe square root of 64 is: \n\n\nThe blanks are case-sensitive; if you don’t care about case, use the argument ignore_case = TRUE.\n\nWhat is the letter after D? \n\n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\nMultiple Choice (mcq())\n\n“Never gonna give you up, never gonna: \nlet you go\nturn you down\nrun away\nlet you down”\n“I \nbless the rains\nguess it rains\nsense the rain down in Africa” -Toto\nTrue or False (torf())\n\nTrue or False? You can permute values in a vector using sample(). \nTRUE\nFALSE\n\nLonger MCQs (longmcq())\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n\n\n\nthe probability that the null hypothesis is truethe probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is truethe probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n\n\n\n95% of the data fall within this rangethere is a 95% probability that the true mean lies within this rangeif you repeated the process many times, 95% of intervals calculated in this way contain the true mean"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/webexercises.html#checked-sections",
+    "href": "Fundamental Models and Concepts in Ecology/webexercises.html#checked-sections",
+    "title": "Webexercises",
+    "section": "Checked sections",
+    "text": "Checked sections\nCreate sections with the class webex-check to add a button that hides feedback until it is pressed. Add the class webex-box to draw a box around the section (or use your own styles).\n\nI am going to learn a lot: \nTRUE\nFALSE\nWhat is a p-value?\n\nthe probability that the null hypothesis is truethe probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is truethe probability of making an error in your conclusion"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/webexercises.html#hidden-solutions-and-hints",
+    "href": "Fundamental Models and Concepts in Ecology/webexercises.html#hidden-solutions-and-hints",
+    "title": "Webexercises",
+    "section": "Hidden solutions and hints",
+    "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "webexercises.html",
+    "href": "webexercises.html",
+    "title": "Webexercises",
+    "section": "",
+    "text": "This is a Web Exercise template created by the psychology teaching team at the University of Glasgow, based on ideas from Software Carpentry. This template shows how instructors can easily create interactive web documents that students can use in self-guided learning.\nThe webexercises package provides a number of functions that you use in inline R code or through code chunk options to create HTML widgets (text boxes, pull down menus, buttons that reveal hidden content). Examples are given below. Render this file to HTML to see how it works.\nNOTE: To use the widgets in the compiled HTML file, you need to have a JavaScript-enabled browser."
+  },
+  {
+    "objectID": "webexercises.html#example-questions",
+    "href": "webexercises.html#example-questions",
+    "title": "Webexercises",
+    "section": "Example Questions",
+    "text": "Example Questions\nFill-In-The-Blanks (fitb())\nCreate fill-in-the-blank questions using fitb(), providing the answer as the first argument.\n\n2 + 2 is \n\n\nYou can also create these questions dynamically, using variables from your R session.\n\n\n\n\nThe square root of 49 is: \n\n\nThe blanks are case-sensitive; if you don’t care about case, use the argument ignore_case = TRUE.\n\nWhat is the letter after D? \n\n\nIf you want to ignore differences in whitespace use, use the argument ignore_ws = TRUE (which is the default) and include spaces in your answer anywhere they could be acceptable.\n\nHow do you load the tidyverse package? \n\n\nYou can set more than one possible correct answer by setting the answers as a vector.\n\nType a vowel: \n\n\nYou can use regular expressions to test answers against more complex rules.\n\nType any 3 letters: \n\nMultiple Choice (mcq())\n\n“Never gonna give you up, never gonna: \nlet you go\nturn you down\nrun away\nlet you down”\n“I \nbless the rains\nguess it rains\nsense the rain down in Africa” -Toto\nTrue or False (torf())\n\nTrue or False? You can permute values in a vector using sample(). \nTRUE\nFALSE\n\nLonger MCQs (longmcq())\nWhen your answers are very long, sometimes a drop-down select box gets formatted oddly. You can use longmcq() to deal with this. Since the answers are long, It’s probably best to set up the options inside an R chunk with echo=FALSE.\nWhat is a p-value?\n\n\n\n\nthe probability that the null hypothesis is truethe probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is truethe probability of making an error in your conclusion\n\nWhat is true about a 95% confidence interval of the mean?\n\n\n\n\n95% of the data fall within this rangethere is a 95% probability that the true mean lies within this rangeif you repeated the process many times, 95% of intervals calculated in this way contain the true mean"
+  },
+  {
+    "objectID": "webexercises.html#checked-sections",
+    "href": "webexercises.html#checked-sections",
+    "title": "Webexercises",
+    "section": "Checked sections",
+    "text": "Checked sections\nCreate sections with the class webex-check to add a button that hides feedback until it is pressed. Add the class webex-box to draw a box around the section (or use your own styles).\n\nI am going to learn a lot: \nTRUE\nFALSE\nWhat is a p-value?\n\nthe probability that the null hypothesis is truethe probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is truethe probability of making an error in your conclusion"
+  },
+  {
+    "objectID": "webexercises.html#hidden-solutions-and-hints",
+    "href": "webexercises.html#hidden-solutions-and-hints",
+    "title": "Webexercises",
+    "section": "Hidden solutions and hints",
+    "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\nplot(cars$speed, cars$dist)"
+  },
+  {
+    "objectID": "index2.html",
+    "href": "index2.html",
+    "title": "Daniel J.B. Smith",
+    "section": "",
+    "text": "🌳 About me 🌱\nJust as a microscope can reveal the inner-workings of a cell, mathematics can illuminate the processes that shape ecological communities and evolutionary adaptation. In my work, I emphasize the use of mathematical models to explore how density-dependent interactions shape ecological patterns such as species diversity, often in conjunction with empirical data.\nI am a theoretical ecologist and evolutionary biologist. I am currently a Peter O’Donnell Jr. Postdoc Fellow at UT Austin, working closely with Dr. Annette Ostling and Dr. Brian Sedio. I was previously a Postdoc in Dr. Joanna Masel’s lab at the University of Arizona. I received my PhD from the University of Chicago, where I was advised by Dr. Tim Wootton. I also previously worked with Dr. Priyanga Amarasekare as an undergraduate at UCLA.\nOn this website, you will find descriptions of my research, publications, talks, outreach, and teaching.\n\n\nPlease reach out!\nI love meeting new people and beginning new collaborations! Please contact me if you have any questions, if you would like to discuss potential collaborations, or if you’re interested in chatting in general."
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index2.html",
+    "href": "Fundamental Models and Concepts in Ecology/index2.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Course motivation"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index2.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/index2.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index3.html",
+    "href": "Fundamental Models and Concepts in Ecology/index3.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Course motivation"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index3.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/index3.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments\n\nConsider two populations, each starting with one individual. These populations live in a seasonal environment, with a “good” season and a “bad” season occuring every year. A biological example may be a ‘wet’ and ‘dry’ season. Population A is unaffected by seasons and grows at a constant rate λ = 2 each season – thus, each season, each individual in population A produces 2 offspring per death. Population B grows differently depending on the season, where λ = 7 each good season and λ = 0.5 each bad season. Which population will grow faster? Justify your answer before checking.\n\nPopulation APopulation B"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index4.html",
+    "href": "Fundamental Models and Concepts in Ecology/index4.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Course motivation"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/index4.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/index4.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments\n\nConsider two populations, each starting with one individual. These populations live in a seasonal environment, with a “good” season and a “bad” season occuring every year. A biological example may be a wet and dry season. Population A is unaffected by seasons and grows with the same λ each season: λ(A,Good) = λ(A,Bad) = 2 each season – thus, each season, each individual in population A produces 2 offspring per death. Population B grows differently depending on the season, where λ(B,Good) = 3.8 each good season and λ(B,Bad) = 1 each bad season. Which population will grow faster? Justify your answer before checking.\n\nPopulation APopulation B\n\n\n\n\n\n\n\n\nExplanation\n\n\n\n\n\nMany students are inclined to guess population B. However, a quick simulation shows this is not the case:\nR code\nIn my experience, this is because students compare the average values of \\(\\lambda\\) for each population. \\(\\frac{\\lambda(A,\\text{Good})+\\lambda(A,\\text{Bad})}{2}=\\frac{2+2}{2}=2\\) while \\(\\frac{\\lambda(B,\\text{Good})+\\lambda(B,\\text{Bad})}{2}=\\frac{3.8+1}{2}=2.4\\). Crucially, this is a comparison of the arithmetic means,"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW.html",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Course motivation"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments\n\nConsider two populations, each starting with one individual. These populations live in a seasonal environment, with a “good” season and a “bad” season occuring every year. A biological example may be a wet and dry season. Population A is unaffected by seasons and grows with the same λ each season: λ(A,Good) = λ(A,Bad) = 2 each season – thus, each season, each individual in population A produces 2 offspring per death. Population B grows differently depending on the season, where λ(B,Good) = 3.8 each good season and λ(B,Bad) = 1 each bad season. Which population will grow faster? Justify your answer before checking.\n\nPopulation APopulation B\n\n\n\n\n\n\n\n\nExplanation\n\n\n\n\n\nMany students are inclined to guess population B. However, a quick simulation shows this is not the case:\nR code\nIn my experience, this is because students compare the average values of \\(\\lambda\\) for each population. \\(\\frac{\\lambda(A,\\text{Good})+\\lambda(A,\\text{Bad})}{2}=\\frac{2+2}{2}=2\\) while \\(\\frac{\\lambda(B,\\text{Good})+\\lambda(B,\\text{Bad})}{2}=\\frac{3.8+1}{2}=2.4\\). Crucially, this is a comparison of the arithmetic means,"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW2.html",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW2.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Course motivation"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW2.html#the-nature-of-exponential-growth",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW2.html#the-nature-of-exponential-growth",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "The nature of exponential growth",
+    "text": "The nature of exponential growth\nParakeet Invasion\nCOVID-19 in New York City"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW2.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW2.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments\n\nConsider two populations, each starting with one individual. These populations live in a seasonal environment, with a “good” season and a “bad” season occuring every year. A biological example may be a wet and dry season. Population A is unaffected by seasons and grows with the same λ each season: λ(A,Good) = λ(A,Bad) = 2 each season. Thus, each season, each individual in population A produces 2 offspring during their lifespan. Population B grows differently depending on the season, where λ(B,Good) = 3.8 each good season and λ(B,Bad) = 1 each bad season. Which population will grow faster? Justify your answer before checking.\n\nPopulation APopulation B\n\n\n\n\n\n\n\n\nExplanation\n\n\n\n\n\nMany students are inclined to guess population B. However, a quick simulation shows this is not the case:\n\n\nTempVar\n\n\nIn my experience, this is because students compare the average values of \\(\\lambda\\) for each population. \\(\\frac{\\lambda(A,\\text{Good})+\\lambda(A,\\text{Bad})}{2}=\\frac{2+2}{2}=2\\) while \\(\\frac{\\lambda(B,\\text{Good})+\\lambda(B,\\text{Bad})}{2}=\\frac{3.8+1}{2}=2.4\\). Crucially, this is a comparison of the arithmetic means,"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW2.html#logistic-growth",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW2.html#logistic-growth",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Logistic growth",
+    "text": "Logistic growth\nMost\nHowever, I find that it is often presented uncritically."
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW3.html",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW3.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Course motivation"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW3.html#the-nature-of-exponential-growth",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW3.html#the-nature-of-exponential-growth",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "The nature of exponential growth",
+    "text": "The nature of exponential growth\nText\nParakeet Invasion\nText  ### COVID-19 in New York City Text"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW3.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW3.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments\n\nConsider two populations, each starting with one individual. These populations live in a seasonal environment, with a “good” season and a “bad” season occuring every year. A biological example may be a wet and dry season. Population A is unaffected by seasons and grows with the same λ each season: λ(A,Good) = λ(A,Bad) = 1.2 each season. Thus, each season, each individual in population A produces 1.2 offspring during their lifespan. Population B grows differently depending on the season, where λ(B,Good) = 1.35 each good season and λ(B,Bad) = 1 each bad season. Which population will grow faster? Justify your answer before checking.\n\nPopulation APopulation B\n\n\n\n\n\n\n\n\nExplanation\n\n\n\n\n\nMany students are inclined to guess population B. However, a quick simulation shows this is not the case:\n\nIn my experience, this is because students compare the average values of \\(\\lambda\\) for each population. \\(\\frac{\\lambda(A,\\text{Good})+\\lambda(A,\\text{Bad})}{2}=\\frac{2+2}{2}=2\\) while \\(\\frac{\\lambda(B,\\text{Good})+\\lambda(B,\\text{Bad})}{2}=\\frac{3.8+1}{2}=2.4\\). Crucially, this is a comparison of the arithmetic means,"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW3.html#logistic-growth",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW3.html#logistic-growth",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Logistic growth",
+    "text": "Logistic growth\nMost\nHowever, I find that it is often presented uncritically."
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW4.html",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW4.html",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "",
+    "text": "Course motivation\nWords"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW4.html#the-nature-of-exponential-growth",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW4.html#the-nature-of-exponential-growth",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "The nature of exponential growth",
+    "text": "The nature of exponential growth\nText\n\\[\n\\underbrace{N_{t+1}}_{\\text{Abundance at next time step}} =\n\\underbrace{N_{t}}_{\\text{Abundance at previous time step}}  +\n\\underbrace{B}_{\\text{Total number of births}} -\n\\underbrace{D}_{\\text{Total number of deaths}}\n\\]\nParakeet Invasion\nText \nCOVID-19 in New York City\nText"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW4.html#growth-in-variable-environments",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW4.html#growth-in-variable-environments",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Growth in variable environments",
+    "text": "Growth in variable environments\n\nConsider two populations, each starting with one individual. These populations live in a seasonal environment, with a “good” season and a “bad” season occuring every year. A biological example may be a wet and dry season. Population A is unaffected by seasons and grows with the same λ each season: λ(A,Good) = λ(A,Bad) = 1.5 each season. Population B grows differently depending on the season, where λ(B,Good) = 10 each good season and λ(B,Bad) = .2 each bad season. Which population will grow faster? Justify your answer before checking.\n\nPopulation APopulation B\n\n\n\n\n\n\n\n\nExplanation\n\n\n\n\n\nMany students are inclined to guess population B. However, a quick simulation shows this is not the case:\n How should we think about this? Why exactly does population A grow faster?\nIn my experience, many students initially think population B grows faster. I think this because students compare the average values of \\(\\lambda\\) for each population. For A, the average is: \\(\\frac{\\lambda(A,\\text{Good})+\\lambda(A,\\text{Bad})}{2}=\\frac{1.5+1.5}{2}=2.25\\). For B, the average is \\(\\frac{\\lambda(B,\\text{Good})+\\lambda(B,\\text{Bad})}{2}=\\frac{10+0.5}{2}=5.25\\). Since \\(5.25 &gt; 2.25\\), it seems reasonable to conclude that population B will grow faster. Where did this go wrong?\nThe above analysis gives the arithmetic means of \\(\\lambda\\) for each population. This is the type of average you might be used to: you take the sum of elements and divide by the number of elements, or \\[\n\\overline{\\lambda} = \\sum_{k=0}^t\\lambda_k\n\\] But let’s think about how our population grows. As we noted earlier, \\[\nN_t = N_0 \\times \\lambda^t\n\\] blah blah Over the long-run, the geometric mean is given by: \\[\n\\left(\\prod_{k=0}^t \\lambda_k\\right)^{\\frac{1}{t}} = \\sqrt[t]{\\lambda_0 \\lambda_1 \\cdots\\lambda_t}\n\\] End it here.\n\n\n\nFollow-up question\n\nConsider two populations, each starting with one individual. These populations live in a seasonal environment, with a “good” season and a “bad” season occuring every year. A biological example may be a wet and dry season. Population A is unaffected by seasons and grows with the same intrinsic growth rate, r, each season: r(A,Good) = r(A,Bad) = 0.15 throughout season. Population B grows differently depending on the season, where r(B,Good) = 0.10 each good season and r(B,Bad) = .02 each bad season. Which population will grow faster? Justify your answer before checking.\n\nPopulation APopulation B\n\n\n\n\n\n\n\n\nExplanation\n\n\n\n\n\nMore words."
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW4.html#logistic-growth",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW4.html#logistic-growth",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Logistic growth",
+    "text": "Logistic growth\nMost\nHowever, I find that it is often presented uncritically."
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW4.html#the-density-wars",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW4.html#the-density-wars",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "The density wars:",
+    "text": "The density wars:\n“[a] long-running verbal debate, reminiscent of medieval scholasticism”/summary&gt;\nThus, the real crux of the question wasn’t\nPopulations fluctuate. In contrast to a model such as the\nMore along the lines of “is most population change we see attributable to some kind of density-dependent factor? Or (in essence), does most population change reflect randomness and \\(r\\) changing through time?”.\nThe logistic map: the end of the debate\nIn my view, the debate wasn’t completely resolved, but the"
+  },
+  {
+    "objectID": "Fundamental Models and Concepts in Ecology/indexNEW4.html#introduction-1",
+    "href": "Fundamental Models and Concepts in Ecology/indexNEW4.html#introduction-1",
+    "title": "Fundamental Models and Concepts in Ecology",
+    "section": "Introduction",
+    "text": "Introduction\nWe begin today with a riddle that gives some surprising insights into the history of theory ecology:\n\nWhat do sharks and machine guns have in common?\n\nWords"
+  },
+  {
+    "objectID": "Outreach/index.html#youtube",
+    "href": "Outreach/index.html#youtube",
+    "title": "Outreach and Teaching",
+    "section": "",
+    "text": "I am the creator of the YouTube channel LifeEquations. In each video, I (attempt to) explain a complex theoretical topic or model in ecology in simple terms.\nHere’s my latest video:\n\n\nAnd here are several other ecology-related videos from the channel!"
+  },
+  {
+    "objectID": "Teaching/Teaching.html",
+    "href": "Teaching/Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am in the processes of adding lecture notes on various topics in ecology and evolutionary biology. I hope you find them helpful!\nNotes: - Essential Models in Ecology"
+  },
+  {
+    "objectID": "Teaching/index.html",
+    "href": "Teaching/index.html",
+    "title": "Outreach",
+    "section": "",
+    "text": "I am the creator of the YouTube channel LifeEquations. In each video, I (attempt to) explain a complex theoretical topic or model in ecology in simple terms.\nHere’s my latest video:\n\n\nAnd here are several other ecology-related videos from the channel!"
+  },
+  {
+    "objectID": "Teaching/index.html#youtube",
+    "href": "Teaching/index.html#youtube",
+    "title": "Outreach",
+    "section": "",
+    "text": "I am the creator of the YouTube channel LifeEquations. In each video, I (attempt to) explain a complex theoretical topic or model in ecology in simple terms.\nHere’s my latest video:\n\n\nAnd here are several other ecology-related videos from the channel!"
+  },
+  {
+    "objectID": "Teaching/index.html#reshaping-quantiative-education-in-the-biological-sciences",
+    "href": "Teaching/index.html#reshaping-quantiative-education-in-the-biological-sciences",
+    "title": "Outreach",
+    "section": "Reshaping quantiative education in the biological sciences",
+    "text": "Reshaping quantiative education in the biological sciences\nAt the inaugural meeting of the Society for Modeling and Theory in Population Biology in Banff (Alberta, Canada), we formed a committee to enact change in teaching the biological sciences. Our primary goals is to better integrate mathematical and quantitative reasoning into biological curriculums in higher education. For information about the society can be found here.\n This is a picture from the first in-person meeting!"
+  },
+  {
+    "objectID": "Publications/index.html#peer-reveiwed-publications",
+    "href": "Publications/index.html#peer-reveiwed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "LaManna, Joseph…, Smith, Daniel JB…, Delavaux, C “Consequences of local conspecific density effects for plant diversity and community dynamics.” Ecology Letters 27.6 Accepted.\nMagee, Lukas J., Joseph A. LaManna, Amy T. Wolf, Robert W. Howe, Yuanming Lu, Denis Valle, Daniel JB Smith, Robert Bagchi, David Bauman, and Daniel J. Johnson. “The unexpected influence of legacy conspecific density dependence.” Ecology Letters 27.6 (2024): e14449. https://doi.org/10.1111/ele.14449.\nSmith, Daniel JB “The functional form of specialised predation affects whether Janzen–Connell effects can prevent competitive exclusion.” Ecology Letters 25.6 (2022): 1458-1470. https://doi.org/10.1111/ele.14014.\nSmith, Daniel JB and Amarasekare, Priyanga. “Toward a mechanistic understanding of thermal niche partitioning.” The American Naturalist 191.3 (2018): E57-E75. https://doi.org/10.1086/695805."
+  },
+  {
+    "objectID": "Teaching/Teaching.html#teaching-philosophy",
+    "href": "Teaching/Teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nJust as a microscope can reveal the inner-workings of a cell, mathematics can illuminate the processes that shape ecological communities and evolutionary adaptation. Unfortunately, biology students are not often exposed to this perspective in a nurturing way that cultivates curiosity or inspires the development of quantitative skills. Instead, many students view mathematics as intimidating and irrelevant to their interests as life science majors. I aim to dispel these notions, which are especially problematic due to the increasing quantitative demands within the biological sciences.\nAs an educator, my broad learning objectives are to:\n\nGuide students to understand the profound usefulness of modeling in biology, emphasizing the role modeling plays within the scientific method\nFacilitate an environment in which students build quantitative (mathematical, statistical, and programming) skills necessary for understanding/producing published research, using data-based biological examples as motivation\nConvince students that modeling is a fun, creative, and rewarding process using active learning methods and research opportunities\n\nAfter embracing mathematics / quantitative reasoning our ally, the world becomes our oyster and there is endless room for creativity. As a concrete example, here’s an animation that depicts the population dynamics of many tree species in a forest, based on a paper by Wiegand et al (2025):\n\n\n\nAnimation of the tree community model. Trees produce and disperse seeds seeds (see the yellow lines). After dispersing seeds, some adults die. The probability a tree dies increases with the number of trees near it. After tree death, the dispersed seeds grow into new adults.\n\n\nI’m personally fascinated by the insights models (such as the above) can provide into the natural world. I also simply find then fun and amusing to think about. It is my hope that you will find them entertaining and illminating as well."
+  },
+  {
+    "objectID": "Teaching/Teaching.html#lecture-notes",
+    "href": "Teaching/Teaching.html#lecture-notes",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am in the processes of adding lecture notes on various topics in ecology and evolutionary biology. I hope you find them helpful!\nNotes: - Essential Models in Ecology"
+  }
+]

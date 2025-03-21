@@ -1,0 +1,30 @@
+---
+sidebar: false
+title: "Teaching"
+---
+
+## Lecture Notes
+
+I am in the processes of adding lecture notes on various topics in ecology and evolutionary biology. I hope you find them helpful! 
+
+**Notes:**
+
+-   [Essential Models in Ecology](https://danielsmithecology.quarto.pub/essential-models-in-ecology/)
+
+## Teaching Philosophy  
+  
+Just as a microscope can reveal the inner-workings of a cell, mathematics can illuminate the processes that shape ecological communities and evolutionary adaptation. Unfortunately, biology students are not often exposed to this perspective in a nurturing way that cultivates curiosity or inspires the development of quantitative skills. Instead, many students view mathematics as intimidating and irrelevant to their interests as life science majors. I aim to dispel these notions, which are especially problematic due to the increasing quantitative demands within the biological sciences. 
+
+As an educator, my broad learning objectives are to: 
+
+1)    Guide students to understand the profound usefulness of modeling in biology, emphasizing the role modeling plays within the scientific method
+2)    Facilitate an environment in which students build quantitative (mathematical, statistical, and programming) skills necessary for understanding/producing published research, using data-based biological examples as motivation 
+3)    Convince students that modeling is a fun, creative, and rewarding process using active learning methods and research opportunities  
+
+After embracing mathematics / quantitative reasoning our ally, the world becomes our oyster and there is endless room for creativity. As a concrete example, here's an animation that depicts the population dynamics of many tree species in a forest, based on a paper by [Wiegand et al (2025)](https://www.nature.com/articles/s41586-025-08604-z): 
+
+![Animation of the tree community model. Trees produce and disperse seeds seeds (see the yellow lines). After dispersing seeds, some adults die. The probability a tree dies increases with the number of trees near it. After tree death, the dispersed seeds grow into new adults.](Example_Trees.gif){.lightbox}
+
+I'm personally fascinated by the insights models (such as the above) can provide into the natural world. I also simply find then fun and amusing to think about. It is my hope that you will find them entertaining and illminating as well.
+
+

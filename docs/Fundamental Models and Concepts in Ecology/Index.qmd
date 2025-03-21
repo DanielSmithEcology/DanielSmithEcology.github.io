@@ -1,0 +1,22 @@
+---
+layout: page
+title: Fundamental Models and Concepts in Ecology
+excerpt: Fundamentals
+contents:
+  - Fundamental Models and Concepts in Ecology/Introduction.qmd
+  - Fundamental Models and Concepts in Ecology/Density_Independent.qmd
+  - Fundamental Models and Concepts in Ecology/Density_Dependent.qmd
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+#html:
+#    toc: true
+#    toc-title: "Contents"
+#    toc-depth: 3
+#    number-sections: true
+#    toc-location: right
+
+---
+# Introduction
+
+----

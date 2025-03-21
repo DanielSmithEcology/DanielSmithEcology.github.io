@@ -1,0 +1,14 @@
+{
+  "hash": "80edd384af061216b326345bffe18a1f",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: Fundamental Models and Concepts in Ecology\nexcerpt: Fundamentals\nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \nsidebar: false\ntoc: true\ntoc-location: left\ntoc-title: Topics\ncss: tocstyles.css\nformat: html\n#server: shiny\n\n#html:\n#    toc: true\n#    toc-title: \"Contents\"\n#    toc-depth: 1\n#    number-sections: true\n#    toc-location: left\n#    css: tocstyles.css\n---\n\n\n\n\nWord. \n\n::: {.webex-check .webex-box}\n\nI am going to learn a lot: <select class='webex-select'><option value='blank'></option><option value='answer'>TRUE</option><option value=''>FALSE</option></select>\n\n\nWhat is a p-value? <div class='webex-radiogroup' id='radio_TFJWYPIIZS'><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_TFJWYPIIZS\" value=\"\"></input> <span>the probability that the null hypothesis is true</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_TFJWYPIIZS\" value=\"answer\"></input> <span>the probability of the observed, or more extreme, data, under the assumption that the null-hypothesis is true</span></label><label><input type=\"radio\" autocomplete=\"off\" name=\"radio_TFJWYPIIZS\" value=\"\"></input> <span>the probability of making an error in your conclusion</span></label></div>\n\n\n:::\n\n:::{.callout-note}\nNote that there are five types of callouts, including:\n`note`, `tip`, `warning`, `caution`, and `important`.\n:::\n\n:::{.callout-tip}\n## Tip With Caption\n\nThis is an example of a callout with a caption.\n:::\n\n\n\nWhat function loads a package that is already on your computer? <select class='webex-select'><option value='blank'></option><option value=''>install.package</option><option value=''>install.packages</option><option value='answer'>library</option><option value=''>libraries</option></select>\n\n---",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

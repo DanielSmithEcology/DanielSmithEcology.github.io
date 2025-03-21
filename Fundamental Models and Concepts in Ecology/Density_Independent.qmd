@@ -1,0 +1,17 @@
+---
+layout: page
+title: "Section 2: Density-Independent Growth"
+excerpt: Fundamentals
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+html:
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 3
+    number-sections: true
+    toc-location: right
+
+---
+Adding some words again
+----

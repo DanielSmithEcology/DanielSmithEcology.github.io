@@ -1,0 +1,14 @@
+{
+  "hash": "6b237a9d5dc9409d2c94890e104cdc27",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: \"Section 1: Introduction\"\nexcerpt: Fundamentals\nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \nhtml:\n    toc: true\n    toc-title: \"Contents\"\n    toc-depth: 3\n    number-sections: true\n    toc-location: right\n\n---\n\n# Modeling in ecology\n*\"All models are wrong, but some are useful\"*\n\n# Some examples \n\nWe'll start with some \n----\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

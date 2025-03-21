@@ -1,0 +1,14 @@
+{
+  "hash": "7e1b9aef16180e631606a91e52355103",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: Fundamental Models in Ecology\nexcerpt: Current and past research\nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \n---\n\n::: {.cell}\n\n```{.r .cell-code}\ndata = data.frame(\n  year = c(2021, 2022, 2023),\n  budget = c(\"$100\", \"$200\", \"$300\"),\n  profit = c(\"$100\", \"$200\", \"$300\")\n)\n```\n:::\n\n\n----\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

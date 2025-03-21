@@ -1,0 +1,61 @@
+website:
+  title: '**Daniel J.B. Smith** | Theoretical Ecology and Evolutionary Biology'
+  image: img/my_image.jpg
+  favicon: img/TreeYay.png
+  navbar:
+    pinned: true
+    logo: /img/TreeYay.png
+    left:
+    - sidebar:Research
+    - text: Publications
+      href: Publications/index.qmd
+    - text: Talks
+      href: Talks/index.qmd
+    - text: CV
+      href: cv/index.qmd
+    - text: Teaching
+      href: Teaching/Teaching.qmd
+    - text: Outreach
+      href: Outreach/index.qmd
+  sidebar:
+  - id: Research
+    title: Research
+    style: docked
+    background: '#242530'
+    collapse-level: 2
+    contents:
+    - Natural enemies and plant diversity/index.qmd
+    - How interfernece competition affects coexistence/index.qmd
+    - What is fitness/index.qmd
+    - The effect of temperature on competition in ectotherms/index.qmd
+  search:
+    location: navbar
+    type: textbox
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+execute:
+  freeze: true
+timezone: UTC
+format:
+  html:
+    fontsize: 1.3em
+    theme: cyborg
+    backgroundcolor: '#242530'
+    fontcolor: '#edeef6'
+    mainfont: arial
+    monobackgroundcolor: yellow
+    linkcolor: '#2298d7'
+    page-layout: full
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    css: include/webex.css
+    include-after-body: include/webex.js

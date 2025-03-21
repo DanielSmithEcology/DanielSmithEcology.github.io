@@ -1,0 +1,22 @@
+---
+layout: page
+title: "Section 1: Introduction"
+excerpt: Fundamentals
+execute:
+  freeze: true  # never re-render during project render
+engine: knitr 
+html:
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 3
+    number-sections: true
+    toc-location: right
+
+---
+# Modeling in ecology
+*"All models are wrong, but some are useful"*
+
+# Some examples 
+
+We'll start with some 
+----

@@ -1,0 +1,14 @@
+{
+  "hash": "42de1312b442f413453fb7727c0b7db9",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: Fundamental Models and Concepts in Ecology\nexcerpt: Fundamentals\ncontents:\n  - Fundamental Models and Concepts in Ecology/Introduction.qmd\n  - Fundamental Models and Concepts in Ecology/Density_Independent.qmd\n  - Fundamental Models and Concepts in Ecology/Density_Dependent.qmd\n              \nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \n#html:\n#    toc: true\n#    toc-title: \"Contents\"\n#    toc-depth: 3\n#    number-sections: true\n#    toc-location: right\n\n---\n\n# Introduction\n\n----\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

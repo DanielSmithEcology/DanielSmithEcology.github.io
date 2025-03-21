@@ -1,0 +1,16 @@
+{
+  "hash": "ab3eb07cfd218c8b6daa84673c93fc61",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: Fundamental Models and Concepts in Ecology\nexcerpt: Fundamentals\nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \nsidebar: false\ntoc: true\ntoc-location: left\ntoc-title: Topics\n#css: tocstyles.css\nformat: html\n#server: shiny\n\n#html:\n#    toc: true\n#    toc-title: \"Contents\"\n#    toc-depth: 1\n#    number-sections: true\n#    toc-location: left\n#    css: tocstyles.css\n---\n\n\n\n\n# Introduction\n\n<details>\n\n<summary>Course motivation</summary>\n\n</details>\n\n# Density-independent growth\n\n<details>\n\n<summary>How do populations grow?</summary>\n\n## Growth in variable environments\n\n\n\n</details>\n\n# Density-dependent growth\n\n<details>\n\n<summary>What limits population growth?</summary>\n\n</details>\n\n---\n",
+    "supporting": [
+      "index2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
