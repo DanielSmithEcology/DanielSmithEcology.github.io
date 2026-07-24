@@ -5,6 +5,8 @@ title: "Talks"
 
 ## Invited Talks
 
+* Smith, Daniel JB, "Janzen-Connell effects and habitat-induced aggregation synergistically promote species coexistence." FOrest Theory and Empiricism (FORTE) Group Presentation, June 2026. 
+
 * Smith, Daniel JB, "A Unified Framework for Interference and Exploitative Competition: Synthesizing Classic Ecological and Evolutionary Game Theory Models." Wolfram Summer Ecology Colloquium, August 2024. [Link to recording.](https://www.bigmarker.com/wolfram-u/eco-research-aug-2024?bmid=34313ce46008&bmid_type=member&bmid=34313ce46008)
 
 * Smith, Daniel JB, "A Unified Framework for Interference and Exploitative Competition: Synthesizing Classic Ecological and Evolutionary Game Theory Models." Inaugural meeting of the Society for Modeling and Theory in Population Biology at the Banff International Research Station, Banff International Research Station, Alberta, Canada, May 2024. [Link to recording.](https://www.birs.ca/events/2024/5-day-workshops/24htp001/videos/watch/202405211418-Smith.html)
@@ -15,6 +17,14 @@ title: "Talks"
 
 
 ## Contributed Talks
+
+* Smith, Daniel JB, "Janzen-Connell effects and habitat-induced aggregation synergistically promote species coexistence." Ecological Society of America Annual Meeting, Salt Lake City, Utah, 2026. 
+
+* Smith, Daniel JB, and Ostling, Annette. "How the abiotic environment and trait variation shape CNDD: a theoretical perspective." 61st Annual Meeting of the Association for Tropical Biology and Conservation, Oaxaca, Mexico, 2025. 
+
+* Muller-Landau, Helene, et al. "Looking Beyond the Lamppost: Future Directions in Understanding Tropical Tree Communities." 61st Annual Meeting of the Association for Tropical Biology and Conservation, Oaxaca, Mexico, 2025. 
+
+* Smith, Daniel JB, "Enhancing Communication and Understanding of Theoretical Models through Dynamic Visualizations." Modeling & Theory in Population Biology, National Institute for Theory and Mathematics in Biology, Chicago, Illinois, 2025. 
 
 * Smith, Daniel JB, et al. "Why there are so many definitions of fitness in models." Evolution 2024, Montreal, Canada, 2024. 
 
