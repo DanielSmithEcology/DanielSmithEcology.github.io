@@ -11,7 +11,15 @@ toc: false
 ## Peer reveiwed publications
 
 
-* LaManna, Joseph…, **Smith, Daniel JB**…, Delavaux, C "Consequences of local conspecific density effects for plant diversity and community dynamics." *Ecology Letters* 27.6 *Accepted*.
+* Smith, Daniel JB. "Janzen-Connell effects and habitat-induced aggregation synergistically promote species coexistence." *The American Naturalist* (2026). <https://doi.org/10.1086/741911>. 
+
+* Smith, Daniel JB, Doulcier, G., Bourrat, P., Takacs, P., and Masel, Joanna. "Why there are so many definitions of fitness in models." *Genetics* (2026). <https://doi.org/10.1093/genetics/iyag090>. 
+
+* Magee, Lukas J.\*, **Smith, Daniel JB**\*, et al. (\*shared 1st authorship) "Memories of trees past: coexistence implications of legacy conspecific density dependence." *Ecology Letters* 28.10 (2025): e70197. <https://doi.org/10.1111/ele.70197>. 
+
+* Smith, Daniel JB and Masel, Joanna. "A Mechanistically Integrated Model of Exploitative and Interference Competition over a Single Resource Produces Widespread Coexistence." *The American Naturalist* 206.5 (2025): E78-E94. <https://doi.org/10.1086/737628>. 
+
+* LaManna, Joseph…, **Smith, Daniel JB**…, Delavaux, C "Consequences of local conspecific density effects for plant diversity and community dynamics." *Ecology Letters* 27.9 (2024): e14506. <https://doi.org/10.1111/ele.14506>. 
 
 * Magee, Lukas J., Joseph A. LaManna, Amy T. Wolf, Robert W. Howe, Yuanming Lu, Denis Valle, **Daniel JB Smith**, Robert Bagchi, David Bauman, and Daniel J. Johnson. "The unexpected influence of legacy conspecific density dependence." *Ecology Letters* 27.6 (2024): e14449. <https://doi.org/10.1111/ele.14449>. 
 
@@ -20,23 +28,25 @@ toc: false
 * Smith, Daniel JB and  Amarasekare, Priyanga. "Toward a mechanistic understanding of thermal niche partitioning." *The American Naturalist* 191.3 (2018): E57-E75. <https://doi.org/10.1086/695805>. 
 
 
-## Papers in review
+## Papers in review / submitted
 
-* Magee, Lukas, Smith, Daniel JB, et al. (shared 1st authorship), "Memories of trees past: coexistence implications of legacy conspecific density dependence. *authorea* (2025). <https://doi.org/10.22541/au.174197176.67910208/v1>
+* Smith, Daniel JB, Forrister, D., Sedio, B. "What generates variation in conspecific negative density-dependence? A demographic perspective." *bioRxiv* (2026). <https://doi.org/10.64898/2026.07.21.739908>. *In review.*
 
-* Smith, Daniel JB, et al. "Why there are so many definitions of fitness in models." *EcoEvoRxiv* (2024). <https://doi.org/10.32942/X2V61T>. 
+* Smith, Daniel JB. "Life cycle structure and density dependence regulate selection on strategies generating individual heterogeneity." *In review.*
 
-* Smith, Daniel JB and Masel, Joanna. "The Interaction Between Exploitative and Interference Competition: Limits to R* Theory." *bioRxiv* (2023): 2023-09. <https://doi.org/10.1101/2023.09.27.559600>. 
+* Gao, Junfeng, **Smith, Daniel JB**, et al. "Ontogenetic tradeoffs in conspecific negative density dependence explain coexistence of mycorrhizal strategies in a subtropical forest." *In review.*
 
-* Smith, Daniel JB. "On the interaction between Janzen-Connell effects and habitat partitioning in spatially structured environments." *bioRxiv* (2022). <https://doi.org/10.1101/2022.04.11.487940>. 
+* Magee, Lukas J., Chen, Y., Worthy, S. J., Datta, D., Cox, A., **Smith, Daniel JB**, Rubio, V. E., and Swenson, N. G. "Functional gene expression and resource-dependent growth of trees highlight the mechanics of density dependent interactions." *Submitted.*
+
+* Smith, Daniel JB and Amarasekare, Priyanga. "Elucidating the selective mechanisms underpinning a global pattern of reproductive thermal optima in terrestrial arthropods." *In submission.*
 
 
 ## Papers in prep
 
-* Smith, Daniel JB "The effect of demographic traits and environmental conditions on conspecific negative density dependence." *In prep*.
+* Smith, Daniel JB, Staggs, Jon. "Asymmetric predator satiation reverses coexistence outcomes under masting and Janzen-Connell effects." *In prep*.
 
-* Smith, Daniel JB "The interaction of predator satiation and specialized predation in masting plant populations." *In prep*.
+* Smith, Daniel JB, Forrister, D., Magee, Lukas J., Sedio, B., Ostling, Annette. "Conspecific and chemical density legacies persist for years, shaping seedling survival." *In prep*.
 
-* Kalyuzhny, Michael, Smith, Daniel JB, and Ostling, Annette. “The life history stage generating negative conspecific density-dependence qualitatively changes competitive outcomes in stage-structured populations.” *In prep*.      
+* Krishnadas, Meghna…Smith, Daniel JB, et al. "Conspecific density dependence in plant communities: a theory-based toolkit for empirical studies." *In prep*.      
 
-* Krishnadas, Meghna…Smith, Daniel JB, et al. “Conspecific density dependence in plant communities: a theory-based toolkit for empirical studies.” *In prep*.      
+* Van Cleve, J., Weinrich, D., Smith, Daniel JB, Masel, Joanna. "Q&A: Genetic Lineages." *In submission to Genetics*.
